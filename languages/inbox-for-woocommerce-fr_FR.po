@@ -1,0 +1,1248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inbox-for-woocommerce\n"
+"POT-Creation-Date: 2022-12-14 15:40+0100\n"
+"PO-Revision-Date: 2022-12-14 15:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../inbox-for-woocommerce-lte\n"
+"X-Poedit-KeywordsList: esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inbox-controller-lte.php:91
+#, fuzzy
+#| msgid "WooCommerce Inbox"
+msgid "WooCommerce Inbox Agent"
+msgstr "Boîte de réception WooCommerce"
+
+#: inbox-controller-lte.php:127
+msgid "Settings"
+msgstr "Réglages"
+
+#: inbox-controller-lte.php:190
+msgid "Entered OTP does not match"
+msgstr "L’OTP saisi ne correspond pas"
+
+#: inbox-controller-lte.php:191
+msgid "The provided OTP does not match"
+msgstr "L’OTP fourni ne correspond pas"
+
+#: inbox-controller-lte.php:192 templates/admin/TicketThreadPreview.php:208
+msgid "Guest User"
+msgstr "Utilisateur invité"
+
+#: inbox-controller-lte.php:193
+msgid ""
+"Thank you for reaching out. We would get back to you as soon as possible."
+msgstr ""
+"Bize ulaştığınız için teşekkür ederiz. En kısa sürede size geri dönecektik."
+
+#: inbox-controller-lte.php:194
+msgid "Need help?"
+msgstr "Yardıma mı ihtiyacınız var?"
+
+#: inbox-controller-lte.php:195
+msgid "Not sure it matches your specification?"
+msgstr "Spesifikasyonunuza uyduğundan emin değil misiniz?"
+
+#: inbox-controller-lte.php:196
+msgid "Ask the Seller"
+msgstr "Demandez au vendeur"
+
+#: inbox-controller-lte.php:215 templates/ProductAddOn.php:61
+#: templates/UserMyAccountInbox.php:23 templates/UserMyAccountInbox.php:215
+msgid "Please wait ..."
+msgstr "S’il vous plaît, attendez …"
+
+#: inbox-controller-lte.php:216
+msgid "Just Now"
+msgstr "Juste maintenant"
+
+#: inbox-controller-lte.php:270 inbox-controller-lte.php:284
+msgid "Inbox"
+msgstr "Boîte de réception"
+
+#: inbox-controller-lte.php:299 includes/SettingController.php:222
+msgid "General"
+msgstr "Général"
+
+#: inbox-controller-lte.php:300
+msgid "Theme"
+msgstr "Thème"
+
+#: inbox-controller-lte.php:301
+msgid "Security"
+msgstr "Sécurité"
+
+#: inbox-controller-lte.php:302
+msgid "Third-Party"
+msgstr "Tierce personne"
+
+#: inbox-controller-lte.php:303
+#, fuzzy
+#| msgid "Notification Settings"
+msgid "Notifications"
+msgstr "Paramètres de notification"
+
+#: inbox-controller-lte.php:411
+msgid "Unlock new chat themes"
+msgstr "Débloquez de nouveaux thèmes de chat"
+
+#: inbox-controller-lte.php:411
+msgid "upgrade to full version"
+msgstr "mise à niveau vers la version complète"
+
+#: inbox-table-controller.php:33
+#: includes/admin/woocommerce-sweito-tickets-table.php:14
+#: templates/admin/TicketThreadPreview.php:48
+msgid "WooCommerce Inbox"
+msgstr "Boîte de réception WooCommerce"
+
+#: inbox-table-controller.php:89
+msgid ""
+"The version you are using has expired and not up to date with the latest "
+"security updates. Please update to the latest version as soon as possible."
+msgstr ""
+"La version que vous utilisez a expiré et n’est pas à jour avec les dernières "
+"mises à jour de sécurité. Veuillez mettre à jour la dernière version dès que "
+"possible."
+
+#: inbox-table-controller.php:89 inbox-table-controller.php:92
+msgid "Click here to get the latest version"
+msgstr "cliquez ici pour avoir la dernière version"
+
+#: inbox-table-controller.php:92
+msgid ""
+"A new update exist for your 'inbox-for-woocommerce' extension. Please update "
+"to latest version to get the latest update in security, features and others."
+msgstr ""
+"Une nouvelle mise à jour existe pour votre extension ‘inbox-for-"
+"woocommerce’. Veuillez mettre à jour la dernière version pour obtenir la "
+"dernière mise à jour en matière de sécurité, de fonctionnalités et autres."
+
+#: inbox-table-controller.php:95 templates/admin/TicketThreadPreview.php:113
+msgid ""
+"You are currently using the free version (light-version). UPGRADE to the "
+"full version to access more features like different chat display themes, "
+"different inbox categories and others."
+msgstr ""
+"Vous utilisez actuellement la version gratuite (version légère). MISE À "
+"NIVEAU vers la version complète pour accéder à plus de fonctionnalités comme "
+"différents thèmes d'affichage de chat, différentes catégories de boîte de "
+"réception et autres."
+
+#: inbox-table-controller.php:95 templates/admin/TicketThreadPreview.php:113
+msgid "Click here to purchase full version now"
+msgstr "Cliquez ici pour acheter la version complète maintenant"
+
+#: includes/AjaxController.php:480 includes/AjaxController.php:534
+#, fuzzy
+#| msgid "New inbox message received"
+msgid "Please enter a reply to proceed!"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/AjaxController.php:487 includes/AjaxController.php:541
+#: includes/AjaxController.php:573 includes/AjaxController.php:595
+#: includes/AjaxController.php:671
+msgid "You need to be logged in to access this endpoint"
+msgstr "Vous devez être connecté pour accéder à ce terminal"
+
+#: includes/AjaxController.php:565 includes/AjaxController.php:619
+#: includes/AjaxController.php:705 includes/AjaxController.php:748
+#: includes/AjaxController.php:831 includes/AjaxController.php:897
+#, fuzzy
+#| msgid "Could not find product"
+msgid "Could not verify nonce"
+msgstr "Impossible de trouver le produit"
+
+#: includes/AjaxController.php:646
+#, fuzzy
+#| msgid "New Inbox Message regarding"
+msgid "New inbox message regarding"
+msgstr "Nouveau message de la boîte de réception concernant"
+
+#: includes/AjaxController.php:649 includes/MailController.php:173
+msgid "New inbox message received"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/AjaxController.php:657
+#, fuzzy
+#| msgid "New inbox message received"
+msgid "Please select a message type!"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/AjaxController.php:664 includes/AjaxController.php:776
+#, fuzzy
+#| msgid "New inbox message received"
+msgid "Please enter a message to proceed!"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/AjaxController.php:764
+msgid "Recaptcha Challenge Failed. Please try again"
+msgstr "Le défi Recaptcha a échoué. Veuillez réessayer"
+
+#: includes/AjaxController.php:773
+#, fuzzy
+#| msgid "New Inquiry Message on"
+msgid "Inquiry on"
+msgstr "Nouveau message de demande sur"
+
+#: includes/AjaxController.php:800
+msgid "Invalid email format provided"
+msgstr "Format d’e-mail fourni invalide"
+
+#: includes/AjaxController.php:841
+msgid "Could not find product"
+msgstr "Impossible de trouver le produit"
+
+#: includes/MailController.php:35
+#, fuzzy
+#| msgid "New Message"
+msgid "New Ticket Assigned"
+msgstr "Nouveau message"
+
+#: includes/MailController.php:36
+msgid "A new ticket has been assigned to you"
+msgstr "Un nouveau ticket vous a été attribué"
+
+#: includes/MailController.php:62
+msgid "The customer replied"
+msgstr "Le client a répondu"
+
+#: includes/MailController.php:63 includes/MailController.php:90
+#, fuzzy
+#| msgid "New Inbox Message"
+msgid "Re: Inbox Message"
+msgstr "Nouveau message de la boîte de réception"
+
+#: includes/MailController.php:89
+msgid "The seller replied your inbox message"
+msgstr "Le vendeur a répondu à votre message de boîte de réception"
+
+#: includes/MailController.php:128
+msgid "The seller replied"
+msgstr "Le vendeur a répondu"
+
+#: includes/MailController.php:129
+#, fuzzy
+#| msgid "New Inquiry Message on"
+msgid "Re: Inquiry Message on"
+msgstr "Nouveau message de demande sur"
+
+#: includes/MailController.php:165 includes/MailController.php:172
+msgid "New Inbox Message"
+msgstr "Nouveau message de la boîte de réception"
+
+#: includes/MailController.php:166
+msgid "New Inbox Message regarding"
+msgstr "Nouveau message de la boîte de réception concernant"
+
+#: includes/MailController.php:207
+msgid "New message about an item"
+msgstr "Nouveau message à propos d’un article"
+
+#: includes/MailController.php:208
+msgid "New Inquiry Message on"
+msgstr "Nouveau message de demande sur"
+
+#: includes/SettingController.php:225
+msgid "Product Related"
+msgstr "Produit relatif"
+
+#: includes/admin/settings/SettingFields.php:23
+msgid "Notification Settings"
+msgstr "Paramètres de notification"
+
+#: includes/admin/settings/SettingFields.php:29
+#: includes/admin/settings/SettingFields.php:38
+#: includes/admin/settings/SettingFields.php:47
+msgid "Send Email to Admin"
+msgstr "Envoyer un e-mail à l’administrateur"
+
+#: includes/admin/settings/SettingFields.php:31
+#, fuzzy
+#| msgid "New inbox message received"
+msgid "When a new inquiry message is received"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/admin/settings/SettingFields.php:40
+#, fuzzy
+#| msgid "New inbox message received"
+msgid "When a new inbox message is received"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/admin/settings/SettingFields.php:49
+msgid "When a customer replies inbox thread"
+msgstr "Lorsqu’un client répond au fil de la boîte de réception"
+
+#: includes/admin/settings/SettingFields.php:56
+#: includes/admin/settings/SettingFields.php:65
+msgid "Send Email to Customer"
+msgstr "Envoyer un e-mail au client"
+
+#: includes/admin/settings/SettingFields.php:58
+msgid "When admin replied to an inquiry message received"
+msgstr "Lorsque l’administrateur a répondu à un message de demande reçu"
+
+#: includes/admin/settings/SettingFields.php:67
+#, fuzzy
+#| msgid "New inbox message received"
+msgid "When admin replied to inbox message received"
+msgstr "Nouveau message de la boîte de réception reçu"
+
+#: includes/admin/settings/SettingFields.php:92
+#, fuzzy
+#| msgid "General"
+msgid "General Settings"
+msgstr "Général"
+
+#: includes/admin/settings/SettingFields.php:98
+#, fuzzy
+#| msgid "What do you want to know about this item?"
+msgid "Where do you want to manage inbox messages?"
+msgstr "Que voulez-vous savoir sur cet article ?"
+
+#: includes/admin/settings/SettingFields.php:99
+msgid "Where inbox messages would be sent too and vice versa"
+msgstr ""
+"Où les messages de la boîte de réception seraient également envoyés et vice "
+"versa"
+
+#: includes/admin/settings/SettingFields.php:105
+#, fuzzy
+#| msgid "WordPress Admin"
+msgid "Wordpress Admin"
+msgstr "Administrateur WordPress"
+
+#: includes/admin/settings/SettingFields.php:106 templates/SetupWizard.php:220
+#: templates/SetupWizard.php:280
+msgid "Zendesk"
+msgstr "Zendesk"
+
+#: includes/admin/settings/SettingFields.php:107 templates/SetupWizard.php:226
+#: templates/SetupWizard.php:359
+msgid "Freshdesk"
+msgstr "Freshdesk"
+
+#: includes/admin/settings/SettingFields.php:112
+msgid "Allow inquiry button?"
+msgstr "Autoriser le bouton de demande ?"
+
+#: includes/admin/settings/SettingFields.php:114
+#: includes/admin/settings/SettingFields.php:164
+#: includes/admin/settings/SettingFields.php:173
+#: includes/admin/settings/SettingFields.php:182
+msgid "This feature available on the full version only"
+msgstr "Cette fonctionnalité n'est disponible que sur la version complète"
+
+#: includes/admin/settings/SettingFields.php:121
+#, fuzzy
+#| msgid "Allow CTA Banner on product display screen"
+msgid "Allow CTA section on product page?"
+msgstr "Autoriser la bannière CTA sur l’écran d’affichage du produit"
+
+#: includes/admin/settings/SettingFields.php:123
+msgid "Do you want to allow display of Call-To-Action underneath listing"
+msgstr ""
+"Voulez-vous autoriser l’affichage de l’appel à l’action sous la liste ?"
+
+#: includes/admin/settings/SettingFields.php:129
+msgid "Allow Customer \"My Account\" inbox section?"
+msgstr "Autoriser la section de la boîte de réception “Mon compte” du client ?"
+
+#: includes/admin/settings/SettingFields.php:131
+msgid ""
+"Do you want to allow customers to be able to send inbox messages from the "
+"\"My Account\" page"
+msgstr ""
+"Voulez-vous autoriser les clients à envoyer des messages de la boîte de "
+"réception à partir de la page “Mon compte”"
+
+#: includes/admin/settings/SettingFields.php:141
+#, fuzzy
+#| msgid "New Inbox Message"
+msgid "Allowed Inbox Message Types"
+msgstr "Nouveau message de la boîte de réception"
+
+#: includes/admin/settings/SettingFields.php:146
+msgid "- \"General\" type?"
+msgstr "- Type “Général” ?"
+
+#: includes/admin/settings/SettingFields.php:154
+msgid "- \"Product Related\" type?"
+msgstr "- Type “lié au produit” ?"
+
+#: includes/admin/settings/SettingFields.php:162
+msgid "- \"Order Related\" type?"
+msgstr "- Type “Connexe à la commande” ?"
+
+#: includes/admin/settings/SettingFields.php:171
+msgid "- \"Refund Request\" type?"
+msgstr "- Type “Demande de remboursement” ?"
+
+#: includes/admin/settings/SettingFields.php:180
+msgid "- \"Dispute\" type?"
+msgstr "- Type “litige” ?"
+
+#: includes/admin/settings/SettingFields.php:193
+msgid "Response Message Settings"
+msgstr "Paramètres des messages de réponse"
+
+#: includes/admin/settings/SettingFields.php:198
+msgid "Once submitted inquiry form on product"
+msgstr "Une fois le formulaire de demande soumis sur le produit"
+
+#: includes/admin/settings/SettingFields.php:200
+msgid "Do you want to allow customer/guest users ask questions about listing"
+msgstr ""
+"Voulez-vous autoriser les utilisateurs clients/invités à poser des questions "
+"sur l’inscription ?"
+
+#: includes/admin/settings/SettingFields.php:222
+msgid "Sweito Integration"
+msgstr "Intégration Sweito"
+
+#: includes/admin/settings/SettingFields.php:228
+msgid "Sweito App Token"
+msgstr "Jeton d’application Sweito"
+
+#: includes/admin/settings/SettingFields.php:230
+msgid "Sweito app token generated from https://sweito.com"
+msgstr "Jeton d’application Sweito généré à partir de https://sweito.com"
+
+#: includes/admin/settings/SettingFields.php:251
+msgid "Google Recaptcha Settings (v3)"
+msgstr "Paramètres Google Recaptcha (v3)"
+
+#: includes/admin/settings/SettingFields.php:257
+msgid "Google Recaptcha Site Key"
+msgstr "Clé de site Google Recaptcha"
+
+#: includes/admin/settings/SettingFields.php:259
+msgid "Your public key as given from google"
+msgstr "Votre clé publique fournie par google"
+
+#: includes/admin/settings/SettingFields.php:265
+msgid "Google Recaptcha Secret Key"
+msgstr "Clé secrète Google Recaptcha"
+
+#: includes/admin/settings/SettingFields.php:267
+msgid "Your secret key as given from google"
+msgstr "Votre clé secrète fournie par google"
+
+#: includes/admin/settings/SettingFields.php:278
+msgid "User Access Control Settings"
+msgstr "Paramètres de contrôle d’accès utilisateur"
+
+#: includes/admin/settings/SettingFields.php:279
+msgid ""
+"Only users with role \"WooCommerce Inbox Agent\" & \"Administrator\" can be "
+"assigned tickets"
+msgstr ""
+"Seuls les utilisateurs avec le rôle “Agent de la boîte de réception "
+"WooCommerce” et “Administrateur” peuvent se voir attribuer des tickets"
+
+#: includes/admin/settings/SettingFields.php:300
+msgid "Theme Settings"
+msgstr "Réglage des thèmes"
+
+#: includes/admin/settings/SettingFields.php:305
+msgid "Select ticket chat style to use?"
+msgstr "Sélectionnez le style de chat de ticket à utiliser ?"
+
+#: includes/admin/settings/SettingFields.php:306
+msgid "Get more theme choice in the full version"
+msgstr "Obtenez plus de choix de thèmes dans la version complète"
+
+#: includes/admin/settings/SettingFields.php:313
+msgid "Default Style"
+msgstr "Style par défaut"
+
+#: includes/admin/settings/SettingFields.php:318
+#: includes/admin/settings/SettingFields.php:338
+msgid "Inquiry Button Text"
+msgstr "Texte du bouton d’interrogation"
+
+#: includes/admin/settings/SettingFields.php:321
+#: includes/admin/settings/SettingFields.php:341
+#: includes/admin/settings/SettingFields.php:360
+#: includes/admin/settings/SettingFields.php:369
+msgid "Default"
+msgstr "Défaut"
+
+#: includes/admin/settings/SettingFields.php:331
+msgid "Inquiry Button Display Settings"
+msgstr "Paramètres d’affichage du bouton d’interrogation"
+
+#: includes/admin/settings/SettingFields.php:333
+msgid ""
+"Skip this section if you didn't \"allow inquiry button\" in the General "
+"section"
+msgstr ""
+"Ignorez cette section si vous n’avez pas “autorisé le bouton de demande” "
+"dans la section générale"
+
+#: includes/admin/settings/SettingFields.php:347
+msgid "Select button type?"
+msgstr "Sélectionner le type de bouton ?"
+
+#: includes/admin/settings/SettingFields.php:348
+#, fuzzy
+#| msgid "Outlined button"
+msgid "outlined-button"
+msgstr "Bouton souligné"
+
+#: includes/admin/settings/SettingFields.php:357
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: includes/admin/settings/SettingFields.php:366
+msgid "Button Text Color"
+msgstr "Couleur du texte du bouton"
+
+#: includes/admin/settings/SettingFields.php:379
+msgid "Inquiry CTA Display Settings"
+msgstr "Paramètres d’affichage de l’incitation à l’action"
+
+#: includes/admin/settings/SettingFields.php:381
+msgid ""
+"Skip this section if you didn't \"allow CTA button\" in the General section"
+msgstr ""
+"Ignorez cette section si vous n’avez pas “autorisé le bouton CTA” dans la "
+"section Général"
+
+#: includes/admin/settings/SettingFields.php:386
+msgid "CTA Background Style"
+msgstr "Style d’arrière-plan de l’incitation à l’action"
+
+#: includes/admin/settings/SettingFields.php:387
+msgid "Do you want button icon displayed?"
+msgstr "Voulez-vous que l’icône du bouton s’affiche ?"
+
+#: includes/admin/settings/SettingFields.php:394
+msgid "Color-Filled"
+msgstr "Rempli de couleurs"
+
+#: includes/admin/settings/SettingFields.php:395
+msgid "Background-Image"
+msgstr "Image de fond"
+
+#: includes/admin/settings/SettingFields.php:400
+#, fuzzy
+#| msgid "Enter Description"
+msgid "CTA Description Text"
+msgstr "Entrez la description"
+
+#: includes/admin/settings/SettingFields.php:403
+msgid "The text displayed on CTA Banner"
+msgstr "Le texte affiché sur la bannière CTA"
+
+#: includes/admin/settings/SettingFields.php:409
+msgid "CTA Button Text"
+msgstr "Texte du bouton CTA"
+
+#: includes/admin/settings/SettingFields.php:412
+msgid "The text in the CTA Button"
+msgstr "Le texte du bouton CTA"
+
+#: includes/admin/settings/SettingFields.php:418
+msgid "CTA Background Color"
+msgstr "Couleur d’arrière-plan de l’incitation à l’action"
+
+#: includes/admin/settings/SettingFields.php:421
+msgid ""
+"The background color of the CTA Banner (skip if \"CTA Background Style\" is "
+"not \"Color-Filled\")"
+msgstr ""
+"La couleur d’arrière-plan de la bannière CTA (ignorer si “Style d’arrière-"
+"plan CTA” n’est pas “Rempli de couleur”)"
+
+#: includes/admin/settings/SettingFields.php:428
+#, fuzzy
+#| msgid "CTA Backgrount Image Link"
+msgid "CTA Background Image Link"
+msgstr "Lien d’image d’arrière-plan CTA"
+
+#: includes/admin/settings/SettingFields.php:431
+msgid ""
+"The background color of the CTA Banner (skip if \"CTA Background Style\" is "
+"not \"Background-Image\")"
+msgstr ""
+"La couleur d’arrière-plan de la bannière CTA (ignorer si “Style d’arrière-"
+"plan CTA” n’est pas “Image d’arrière-plan”)"
+
+#: includes/admin/settings/SettingFields.php:437
+msgid "CTA Text Color"
+msgstr "Couleur du texte CTA"
+
+#: includes/admin/settings/SettingFields.php:440
+msgid "The color of the CTA Banner Text"
+msgstr "La couleur du texte de la bannière CTA"
+
+#: includes/admin/settings/SettingFields.php:446
+msgid "CTA Button Color"
+msgstr "Couleur du bouton CTA"
+
+#: includes/admin/settings/SettingFields.php:449
+msgid "The color of the button in CTA Banner"
+msgstr "La couleur du bouton dans la bannière CTA"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:15
+#, fuzzy
+#| msgid "WooCommerce Inbox"
+msgid "WooCommerce Inboxes"
+msgstr "Boîte de réception WooCommerce"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:28
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:29
+msgid "Reference"
+msgstr "Référence"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:30
+#: templates/UserMyAccountInbox.php:40
+msgid "Status"
+msgstr "Statut"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:31
+#: templates/UserMyAccountInbox.php:41
+msgid "Type"
+msgstr "Taper"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:32
+#, fuzzy
+#| msgid "Send"
+msgid "Sender"
+msgstr "Envoyer"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:33
+#, fuzzy
+#| msgid "Assigned Agent"
+msgid "Assigned"
+msgstr "Agent assigné"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:34
+msgid "Subject"
+msgstr "Matière"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:35
+msgid "Created At"
+msgstr "Date créée"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:252
+#, fuzzy
+#| msgid "No tickets avaliable."
+msgid "No tickets available."
+msgstr "Aucun billet disponible."
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:337
+msgid "Delete"
+msgstr "Effacer"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:338
+msgid "Move to \"Open\""
+msgstr "Passer à “Ouvrir”"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:339
+msgid "Move to \"Closed\""
+msgstr "Passer à “Fermé”"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:340
+msgid "Move to \"Archive\""
+msgstr "Déplacer vers “Archives”"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:362
+msgid "Tickets has been deleted successfully!"
+msgstr "Les billets ont été supprimés avec succès !"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:373
+msgid "Tickets has been move to OPEN status successfully!"
+msgstr "Les billets ont été déplacés vers le statut OUVERT avec succès !"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:384
+msgid "Tickets has been moved to CLOSED status successfully!"
+msgstr "Les billets ont été déplacés vers le statut FERMÉ avec succès !"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:395
+msgid "Tickets has been moved to ARCHIVE status successfully!"
+msgstr "Les billets ont été déplacés vers le statut ARCHIVE avec succès !"
+
+#: includes/api/sweito/AccountService.php:37
+#: includes/api/sweito/AccountService.php:74
+#: includes/api/sweito/AccountService.php:105
+msgid "Could not connect to the server. Please check internet connection"
+msgstr "Sunucuya bağlanılamadı. Lütfen internet bağlantısını kontrol edin"
+
+#: templates/ProductAddOn.php:69 templates/SetupWizard.php:97
+#: templates/SetupWizard.php:118
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: templates/ProductAddOn.php:71 templates/ProductAddOn.php:77
+#: templates/UserMyAccountInbox.php:66 templates/UserMyAccountInbox.php:77
+#: templates/UserMyAccountInbox.php:218
+msgid "This field is required"
+msgstr "Ce champ est requis"
+
+#: templates/ProductAddOn.php:75
+msgid "What do you want to know about this item?"
+msgstr "Que voulez-vous savoir sur cet article ?"
+
+#: templates/ProductAddOn.php:83 templates/UserMyAccountInbox.php:90
+#: templates/UserMyAccountInbox.php:145
+#: templates/admin/TicketThreadPreview.php:232
+msgid "Send"
+msgstr "Envoyer"
+
+#: templates/ProductAddOn.php:107
+msgid "Sent Successfully!"
+msgstr "Bien envoyé!"
+
+#: templates/SetupWizard.php:47 templates/error/EssentialPluginMissing.php:15
+msgid "Inbox for WooCommerce"
+msgstr "Boîte de réception pour WooCommerce"
+
+#: templates/SetupWizard.php:48
+#, fuzzy
+#| msgid "Welcome to WooCommerce Inbox!"
+msgid "Welcome to Inbox for WooCommerce Setup!"
+msgstr "Bienvenue dans la boîte de réception WooCommerce !"
+
+#: templates/SetupWizard.php:62
+msgid "Get Started! Signup"
+msgstr "Commencer! S’inscrire"
+
+#: templates/SetupWizard.php:67
+msgid "First Name"
+msgstr "Prénom"
+
+#: templates/SetupWizard.php:73
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: templates/SetupWizard.php:82
+#, fuzzy
+#| msgid "Store URL"
+msgid "Store Name"
+msgstr "URL du magasin"
+
+#: templates/SetupWizard.php:88
+msgid "Store URL"
+msgstr "URL du magasin"
+
+#: templates/SetupWizard.php:105
+msgid "Get Started!"
+msgstr "Commencer!"
+
+#: templates/SetupWizard.php:110 templates/SetupWizard.php:131
+#: templates/SetupWizard.php:153
+msgid "Or"
+msgstr "Ou"
+
+#: templates/SetupWizard.php:110
+msgid "I already have a Sweito Account"
+msgstr "J’ai déjà un compte Sweito"
+
+#: templates/SetupWizard.php:113
+msgid "Welcome Back! Signin"
+msgstr "Content de te revoir! S’identifier"
+
+#: templates/SetupWizard.php:126
+msgid "Sign In!"
+msgstr "S’identifier!"
+
+#: templates/SetupWizard.php:131
+msgid "Don't have an account? Sign Up"
+msgstr "Vous n’avez pas de compte ? S’inscrire"
+
+#: templates/SetupWizard.php:134
+msgid "Verify your email to continue"
+msgstr "Vérifiez votre e-mail pour continuer"
+
+#: templates/SetupWizard.php:135
+msgid "We have sent an email with an access OTP to "
+msgstr "Nous avons envoyé un e-mail avec un accès OTP à "
+
+#: templates/SetupWizard.php:135
+msgid "if your account exist in out records"
+msgstr "si votre compte existe dans nos enregistrements"
+
+#: templates/SetupWizard.php:140
+msgid "Enter OTP"
+msgstr "Entrez OTP"
+
+#: templates/SetupWizard.php:148
+#, fuzzy
+#| msgid "Verify Auth"
+msgid "Verify OTP"
+msgstr "Vérifier l’authentification"
+
+#: templates/SetupWizard.php:153
+msgid "I want to change my email address"
+msgstr "Je veux changer mon adresse e-mail"
+
+#: templates/SetupWizard.php:161
+msgid "Enter your purchase key"
+msgstr "Entrez votre clé d’achat"
+
+#: templates/SetupWizard.php:171
+msgid "Purchase Key"
+msgstr "Clé d’achat"
+
+#: templates/SetupWizard.php:182 templates/SetupWizard.php:239
+msgid "Continue"
+msgstr "Continuer"
+
+#: templates/SetupWizard.php:191
+msgid "Select where you wish to manage tickets"
+msgstr "Sélectionnez où vous souhaitez gérer les tickets"
+
+#: templates/SetupWizard.php:203
+msgid "WordPress Admin"
+msgstr "Administrateur WordPress"
+
+#: templates/SetupWizard.php:248 templates/SetupWizard.php:327
+msgid "Change Store URL"
+msgstr "Modifier l’URL du magasin"
+
+#: templates/SetupWizard.php:257 templates/SetupWizard.php:336
+#: templates/admin/TicketThreadPreview.php:81
+#: templates/admin/TicketThreadPreview.php:88
+msgid "Update"
+msgstr "Mise à jour"
+
+#: templates/SetupWizard.php:268
+msgid "Authenticate your Zendesk Account"
+msgstr "Authentifiez votre compte Zendesk"
+
+#: templates/SetupWizard.php:296
+#, fuzzy
+#| msgid ""
+#| "We would be redirecting you to Sweito to Authenticate your Zendesk "
+#| "account and \n"
+#| "                                return back here to continue the process"
+msgid ""
+"We would be redirecting you to Sweito to Authenticate your Zendesk account "
+"and \n"
+"                                    return back here to continue the process"
+msgstr ""
+"Nous vous redirigerons vers Sweito pour authentifier votre compte Zendesk "
+"et\n"
+"                                 revenez ici pour continuer le processus"
+
+#: templates/SetupWizard.php:300 templates/SetupWizard.php:380
+msgid "Authenticate"
+msgstr "Authentifier"
+
+#: templates/SetupWizard.php:302 templates/SetupWizard.php:382
+msgid ""
+"Please Note: By proceeding, you are agreeing to the terms and conditions "
+"governing the use of Sweito application"
+msgstr ""
+"Remarque : En poursuivant, vous acceptez les termes et conditions régissant "
+"l’utilisation de l’application Sweito"
+
+#: templates/SetupWizard.php:303 templates/SetupWizard.php:383
+msgid ""
+"If you just created an account, your password for Sweito has been sent to "
+"your email address. Use this to login in the Sweito"
+msgstr ""
+"Si vous venez de créer un compte, votre mot de passe pour Sweito a été "
+"envoyé à votre adresse e-mail. Utilisez-le pour vous connecter à Sweito"
+
+#: templates/SetupWizard.php:314 templates/SetupWizard.php:394
+msgid ""
+"Once you have completed the authentication process, click here to verify and "
+"continue"
+msgstr ""
+"Une fois que vous avez terminé le processus d’authentification, cliquez ici "
+"pour vérifier et continuer"
+
+#: templates/SetupWizard.php:315 templates/SetupWizard.php:395
+msgid "Verify Auth"
+msgstr "Vérifier l’authentification"
+
+#: templates/SetupWizard.php:318 templates/SetupWizard.php:398
+#: templates/UserMyAccountInbox.php:98
+msgid "Go Back"
+msgstr "Retourner"
+
+#: templates/SetupWizard.php:347
+msgid "Authenticate your Freshdesk Account"
+msgstr "Authentifiez votre compte Freshdesk"
+
+#: templates/SetupWizard.php:376
+#, fuzzy
+#| msgid ""
+#| "We would be redirecting you to Sweito to Authenticate your Freshdesk "
+#| "account and \n"
+#| "                                return back here to continue the process"
+msgid ""
+"We would be redirecting you to Sweito to Authenticate your Freshdesk account "
+"and \n"
+"                                    return back here to continue the process"
+msgstr ""
+"Nous vous redirigerons vers Sweito pour authentifier votre compte Freshdesk "
+"et\n"
+"                                 revenez ici pour continuer le processus"
+
+#: templates/SetupWizard.php:406
+msgid "Personalize your settings"
+msgstr "Personnalisez vos paramètres"
+
+#: templates/SetupWizard.php:418
+msgid "Allow customer \"Inbox\" section in MyAccount page for registered users"
+msgstr ""
+"Autoriser la section “Boîte de réception” du client dans la page Mon compte "
+"pour les utilisateurs enregistrés"
+
+#: templates/SetupWizard.php:431
+msgid "Allow inquire box on product display screen"
+msgstr "Autoriser la boîte de demande sur l’écran d’affichage du produit"
+
+#: templates/SetupWizard.php:444
+msgid "Allow CTA Banner on product display screen"
+msgstr "Autoriser la bannière CTA sur l’écran d’affichage du produit"
+
+#: templates/SetupWizard.php:454
+msgid "Complete Setup"
+msgstr "Configuration complète"
+
+#: templates/SetupWizard.php:457
+msgid "Skip"
+msgstr "Sauter"
+
+#: templates/UserMyAccountInbox.php:19
+msgid "Messages (Inbox)"
+msgstr "Messages (boîte de réception)"
+
+#: templates/UserMyAccountInbox.php:20
+msgid ""
+"Send messages to the store owner here or ask the seller about a product."
+msgstr ""
+"Envoyez des messages au propriétaire du magasin ici ou interrogez le vendeur "
+"sur un produit."
+
+#: templates/UserMyAccountInbox.php:33
+msgid "No message found in your inbox"
+msgstr "Aucun message trouvé dans votre boîte de réception"
+
+#: templates/UserMyAccountInbox.php:39
+msgid "Ref"
+msgstr "Réf"
+
+#: templates/UserMyAccountInbox.php:42
+msgid "Last Updated"
+msgstr "Dernière mise à jour"
+
+#: templates/UserMyAccountInbox.php:43
+msgid "Action"
+msgstr "Action"
+
+#: templates/UserMyAccountInbox.php:55
+msgid "Select Message type"
+msgstr "Sélectionnez le type de message"
+
+#: templates/UserMyAccountInbox.php:57
+msgid "~ Select a type ~"
+msgstr "~ Sélectionnez un type ~"
+
+#: templates/UserMyAccountInbox.php:75
+msgid "Enter Description"
+msgstr "Entrez la description"
+
+#: templates/UserMyAccountInbox.php:82 templates/UserMyAccountInbox.php:128
+msgid "attachment(s) added"
+msgstr "pièce(s) jointe(s) ajoutée(s)"
+
+#: templates/UserMyAccountInbox.php:85 templates/UserMyAccountInbox.php:131
+msgid "Drop"
+msgstr "Goutte"
+
+#: templates/UserMyAccountInbox.php:91 templates/UserMyAccountInbox.php:146
+#: templates/admin/TicketThreadPreview.php:233
+msgid "Attach File"
+msgstr "Pièce jointe"
+
+#: templates/UserMyAccountInbox.php:140
+#: templates/admin/TicketThreadPreview.php:227
+msgid "Type here to reply ..."
+msgstr "Tapez ici pour répondre…"
+
+#: templates/UserMyAccountInbox.php:182
+#: templates/admin/TicketThreadPreview.php:606
+msgid "Ref:"
+msgstr "Réf :"
+
+#: templates/UserMyAccountInbox.php:185
+#: templates/admin/TicketThreadPreview.php:609
+msgid "Status:"
+msgstr "Statut:"
+
+#: templates/UserMyAccountInbox.php:190
+msgid "TYPE:"
+msgstr "TAPER:"
+
+#: templates/UserMyAccountInbox.php:193
+#: templates/admin/TicketThreadPreview.php:617
+msgid "Date Created:"
+msgstr "Date créée:"
+
+#: templates/UserMyAccountInbox.php:204
+msgid "Select Product"
+msgstr "Sélectionner un produit"
+
+#: templates/UserMyAccountInbox.php:228
+msgid "New Message"
+msgstr "Nouveau message"
+
+#: templates/admin/TicketThreadPreview.php:29
+msgid ""
+"You do not have permission to view this ticket, contact the Administrator to "
+"assign this ticket to you"
+msgstr ""
+"Vous n’êtes pas autorisé à voir ce ticket, contactez l’administrateur pour "
+"vous attribuer ce ticket"
+
+#: templates/admin/TicketThreadPreview.php:48
+msgid "Thread"
+msgstr "Fil de discussion"
+
+#: templates/admin/TicketThreadPreview.php:129
+msgid "UPGRADE TO FULL VERSION"
+msgstr "MISE À NIVEAU VERS LA VERSION COMPLÈTE"
+
+#: templates/admin/TicketThreadPreview.php:137
+msgid "Multiple Chat Themes"
+msgstr "Plusieurs thèmes de chat"
+
+#: templates/admin/TicketThreadPreview.php:143
+#, fuzzy
+#| msgid "New Inbox Message"
+msgid "Additional Message Type"
+msgstr "Nouveau message de la boîte de réception"
+
+#: templates/admin/TicketThreadPreview.php:149
+msgid "Unlocked Preview Sidebar"
+msgstr "Barre latérale d'aperçu déverrouillée"
+
+#: templates/admin/TicketThreadPreview.php:155
+#, fuzzy
+#| msgid "Move to \"Archive\""
+msgid "Ticket Archives"
+msgstr "Déplacer vers “Archives”"
+
+#: templates/admin/TicketThreadPreview.php:160
+msgid "+ more features"
+msgstr "+ plus de fonctionnalités"
+
+#: templates/admin/TicketThreadPreview.php:167
+msgid "You can get the full package now by clicking on the button below"
+msgstr ""
+"Vous pouvez obtenir le package complet maintenant en cliquant sur le bouton "
+"ci-dessous"
+
+#: templates/admin/TicketThreadPreview.php:168
+#, fuzzy
+#| msgid "Purchase Key"
+msgid "Purchase Now"
+msgstr "Clé d’achat"
+
+#: templates/admin/TicketThreadPreview.php:210
+msgid "User"
+msgstr "Utilisateur"
+
+#: templates/admin/TicketThreadPreview.php:211
+msgid "Visit User Profile"
+msgstr "Visiter le profil de l’utilisateur"
+
+#: templates/admin/TicketThreadPreview.php:614
+msgid "Type:"
+msgstr "Taper:"
+
+#: templates/admin/TicketThreadPreview.php:631
+msgid "Active Tickets"
+msgstr "Billets actifs"
+
+#: templates/error/EssentialPluginMissing.php:17
+msgid "WooCommerce Plugin Not Installed"
+msgstr "Plugin WooCommerce non installé"
+
+#: templates/error/EssentialPluginMissing.php:18
+msgid ""
+"Could not find WooCommerce installed on your WordPress, please install "
+"WooCommerce to proceed!"
+msgstr ""
+"Impossible de trouver WooCommerce installé sur votre WordPress, veuillez "
+"installer WooCommerce pour continuer !"
+
+#: templates/mail/AdminInboxMessageReplied.php:18
+msgid "The customer wrote:"
+msgstr "Le client a écrit :"
+
+#: templates/mail/AdminInboxMessageReplied.php:25
+#, fuzzy
+#| msgid "Kindly log into your store to view the message and reply."
+msgid "Kindly log back into your account to view/reply to this message."
+msgstr ""
+"Veuillez vous connecter à votre magasin pour afficher le message et répondre."
+
+#: templates/mail/AdminNewInboxMessage.php:18
+#: templates/mail/AdminNewInboxMessage.php:26
+msgid "has sent you a new inbox message. The message type created is under"
+msgstr ""
+"vous a envoyé un nouveau message de boîte de réception. Le type de message "
+"créé est sous"
+
+#: templates/mail/AdminNewInboxMessage.php:20
+#: templates/mail/AdminNewInboxMessage.php:34
+#: templates/mail/AdminNewInquiryMessage.php:25
+msgid "Kindly log into your store to view the message and reply."
+msgstr ""
+"Veuillez vous connecter à votre magasin pour afficher le message et répondre."
+
+#: templates/mail/AdminNewInquiryMessage.php:18
+msgid ""
+"has sent you a new message regarding an item you listed in your store. The "
+"details of the item being inquired is below:"
+msgstr ""
+"vous a envoyé un nouveau message concernant un article que vous avez mis en "
+"vente dans votre boutique. Les détails de l’article demandé sont ci-dessous :"
+
+#: templates/mail/CustomerInquiryReply.php:17
+#: templates/mail/CustomerMessageReply.php:17
+msgid "The seller wrote:"
+msgstr "Le vendeur a écrit :"
+
+#: templates/mail/CustomerInquiryReply.php:22
+msgid "You wrote:"
+msgstr "Tu as écrit:"
+
+#: templates/mail/CustomerInquiryReply.php:39
+msgid ""
+"You can still visit the shop and make a purchase for this item using the "
+"link below."
+msgstr ""
+"Vous pouvez toujours visiter la boutique et effectuer un achat pour cet "
+"article en utilisant le lien ci-dessous."
+
+#: templates/mail/CustomerMessageReply.php:24
+#, fuzzy
+#| msgid "Kindly log into your store to view the message and reply."
+msgid ""
+"Kindly log back into your account to view and reply if need be to the "
+"message."
+msgstr ""
+"Veuillez vous connecter à votre magasin pour afficher le message et répondre."
+
+#: templates/mail/NewTicketAssigned.php:20
+msgid "You have been assigned a new ticket on the store WooCommerce Inbox."
+msgstr ""
+"Un nouveau ticket vous a été attribué sur la boîte de réception WooCommerce "
+"de la boutique."
+
+#: templates/mail/NewTicketAssigned.php:23
+#, fuzzy
+#| msgid "Kindly log into your store to view the message and reply."
+msgid "Kindly log back into your account to view/reply to this ticker."
+msgstr ""
+"Veuillez vous connecter à votre magasin pour afficher le message et répondre."
+
+#, fuzzy
+#~| msgid "Product Related"
+#~ msgid "Order Related"
+#~ msgstr "Produit relatif"
+
+#~ msgid "Refund"
+#~ msgstr "Remboursement"
+
+#~ msgid "Dispute"
+#~ msgstr "Contestation"
+
+#~ msgid "Zendesk Integration"
+#~ msgstr "Intégration Zendesk"
+
+#, fuzzy
+#~| msgid "Authenticate your Zendesk Account"
+#~ msgid "Authenticate Zendesk Account"
+#~ msgstr "Authentifiez votre compte Zendesk"
+
+#, fuzzy
+#~| msgid "Freshdesk"
+#~ msgid "Freshdesk Integration"
+#~ msgstr "Freshdesk"
+
+#, fuzzy
+#~| msgid "Authenticate your Freshdesk Account"
+#~ msgid "Authenticate Freshdesk Account"
+#~ msgstr "Authentifiez votre compte Freshdesk"
+
+#~ msgid "Select how you want the inbox to be displayed."
+#~ msgstr "Sélectionnez le mode d’affichage de la boîte de réception."
+
+#~ msgid "Style - 2"
+#~ msgstr "Style - 2"
+
+#~ msgid "Style - 3"
+#~ msgstr "Style - 3"
+
+#~ msgid "Select the type of button that would be displayed."
+#~ msgstr "Sélectionnez le type de bouton qui serait affiché."
+
+#~ msgid "Regular button"
+#~ msgstr "Bouton régulier"
+
+#~ msgid "Show button icon?"
+#~ msgstr "Afficher l’icône du bouton ?"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Show icon before text"
+#~ msgstr "Afficher l’icône avant le texte"
+
+#~ msgid "Show icon after text"
+#~ msgstr "Afficher l’icône après le texte"
+
+#~ msgid "Select button icon?"
+#~ msgstr "Sélectionner l’icône du bouton ?"
+
+#~ msgid "Select the icon type you want displayed?"
+#~ msgstr "Sélectionnez le type d’icône que vous souhaitez afficher ?"
+
+#~ msgid "Circle-Chat-Icon"
+#~ msgstr "Cercle-Chat-Icône"
+
+#~ msgid "Square-Chat-Icon"
+#~ msgstr "Carré-Chat-Icône"
+
+#~ msgid "This ticket status has been updated!"
+#~ msgstr "Le statut de ce ticket a été mis à jour !"
+
+#, fuzzy
+#~| msgid "This ticket status has been updated!"
+#~ msgid "This ticket assigned agent has been updated!"
+#~ msgstr "Le statut de ce ticket a été mis à jour !"
+
+#~ msgid "Assigned Agent"
+#~ msgstr "Agent assigné"
+
+#~ msgid "Ticket Status"
+#~ msgstr "Statut du ticket"
+
+#~ msgid "Company Name"
+#~ msgstr "Nom de l’entreprise"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"

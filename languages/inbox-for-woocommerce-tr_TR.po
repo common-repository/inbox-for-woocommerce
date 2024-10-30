@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inbox-for-woocommerce\n"
+"POT-Creation-Date: 2022-12-14 15:45+0100\n"
+"PO-Revision-Date: 2022-12-14 15:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../inbox-for-woocommerce-lte\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inbox-controller-lte.php:91
+msgid "WooCommerce Inbox Agent"
+msgstr "WooCommerce Gelen Kutusu Aracısı"
+
+#: inbox-controller-lte.php:127
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: inbox-controller-lte.php:190
+msgid "Entered OTP does not match"
+msgstr "Girilen OTP eşleşmiyor"
+
+#: inbox-controller-lte.php:191
+msgid "The provided OTP does not match"
+msgstr "Sağlanan OTP eşleşmiyor"
+
+#: inbox-controller-lte.php:192 templates/admin/TicketThreadPreview.php:208
+msgid "Guest User"
+msgstr "Misafir kullanıcı"
+
+#: inbox-controller-lte.php:193
+msgid ""
+"Thank you for reaching out. We would get back to you as soon as possible."
+msgstr ""
+"Bize ulaştığınız için teşekkür ederiz. En kısa sürede size geri dönecektik."
+
+#: inbox-controller-lte.php:194
+msgid "Need help?"
+msgstr "Yardım Edin"
+
+#: inbox-controller-lte.php:195
+msgid "Not sure it matches your specification?"
+msgstr "Spesifikasyonunuza uyduğundan emin değil misiniz?"
+
+#: inbox-controller-lte.php:196
+msgid "Ask the Seller"
+msgstr "Satıcıya Sorun"
+
+#: inbox-controller-lte.php:215 templates/ProductAddOn.php:61
+#: templates/UserMyAccountInbox.php:23 templates/UserMyAccountInbox.php:215
+msgid "Please wait ..."
+msgstr "Lütfen bekle …"
+
+#: inbox-controller-lte.php:216
+msgid "Just Now"
+msgstr "Şu anda"
+
+#: inbox-controller-lte.php:270 inbox-controller-lte.php:284
+msgid "Inbox"
+msgstr "Gelen kutusu"
+
+#: inbox-controller-lte.php:299 includes/SettingController.php:222
+msgid "General"
+msgstr "Genel"
+
+#: inbox-controller-lte.php:300
+msgid "Theme"
+msgstr "Tema"
+
+#: inbox-controller-lte.php:301
+msgid "Security"
+msgstr "Güvenlik"
+
+#: inbox-controller-lte.php:302
+msgid "Third-Party"
+msgstr "Üçüncü şahıs"
+
+#: inbox-controller-lte.php:303
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: inbox-controller-lte.php:411
+msgid "Unlock new chat themes"
+msgstr "Yeni sohbet temalarının kilidini açın"
+
+#: inbox-controller-lte.php:411
+msgid "upgrade to full version"
+msgstr "tam sürüme yükselt"
+
+#: inbox-table-controller.php:33
+#: includes/admin/woocommerce-sweito-tickets-table.php:14
+#: templates/admin/TicketThreadPreview.php:48
+msgid "WooCommerce Inbox"
+msgstr "WooCommerce Gelen Kutusu"
+
+#: inbox-table-controller.php:63
+msgid "All"
+msgstr "Herşey"
+
+#: inbox-table-controller.php:64
+msgid "New"
+msgstr "Yeni"
+
+#: inbox-table-controller.php:65
+msgid "Open"
+msgstr "Açık"
+
+#: inbox-table-controller.php:66
+msgid "Closed"
+msgstr "Kapalı"
+
+#: inbox-table-controller.php:67
+msgid "Archived"
+msgstr "Arşivlendi"
+
+#: inbox-table-controller.php:89
+msgid ""
+"The version you are using has expired and not up to date with the latest "
+"security updates. Please update to the latest version as soon as possible."
+msgstr ""
+"Kullanmakta olduğunuz sürümün süresi doldu ve en son güvenlik "
+"güncellemeleriyle güncel değil. Lütfen en kısa sürede en son sürüme "
+"güncelleyin."
+
+#: inbox-table-controller.php:89 inbox-table-controller.php:92
+msgid "Click here to get the latest version"
+msgstr "En son sürümü almak için buraya tıklayın"
+
+#: inbox-table-controller.php:92
+msgid ""
+"A new update exist for your 'inbox-for-woocommerce' extension. Please update "
+"to latest version to get the latest update in security, features and others."
+msgstr ""
+"‘woocommerce için gelen kutusu’ uzantınız için yeni bir güncelleme var. "
+"Güvenlik, özellikler ve diğer konulardaki en son güncellemeyi almak için "
+"lütfen en son sürüme güncelleyin."
+
+#: inbox-table-controller.php:95 templates/admin/TicketThreadPreview.php:113
+msgid ""
+"You are currently using the free version (light-version). UPGRADE to the "
+"full version to access more features like different chat display themes, "
+"different inbox categories and others."
+msgstr ""
+"Şu anda ücretsiz sürümü (hafif sürüm) kullanıyorsunuz. Farklı sohbet ekranı "
+"temaları, farklı gelen kutusu kategorileri ve diğerleri gibi daha fazla "
+"özelliğe erişmek için tam sürüme YÜKSELTİN."
+
+#: inbox-table-controller.php:95 templates/admin/TicketThreadPreview.php:113
+msgid "Click here to purchase full version now"
+msgstr "Şimdi tam sürümünü satın almak için buraya tıklayın"
+
+#: includes/AjaxController.php:480 includes/AjaxController.php:534
+#, fuzzy
+#| msgid "Please enter a message to proceed!"
+msgid "Please enter a reply to proceed!"
+msgstr "Devam etmek için lütfen bir mesaj girin!"
+
+#: includes/AjaxController.php:487 includes/AjaxController.php:541
+#: includes/AjaxController.php:573 includes/AjaxController.php:595
+#: includes/AjaxController.php:671
+msgid "You need to be logged in to access this endpoint"
+msgstr "Bu uç noktaya erişmek için oturum açmış olmanız gerekir"
+
+#: includes/AjaxController.php:565 includes/AjaxController.php:619
+#: includes/AjaxController.php:705 includes/AjaxController.php:748
+#: includes/AjaxController.php:831 includes/AjaxController.php:897
+#, fuzzy
+#| msgid "Could not find product"
+msgid "Could not verify nonce"
+msgstr "Ürün bulunamadı"
+
+#: includes/AjaxController.php:646
+#, fuzzy
+#| msgid "New Inbox Message regarding"
+msgid "New inbox message regarding"
+msgstr "ilgili Yeni Gelen Kutusu Mesajı"
+
+#: includes/AjaxController.php:649 includes/MailController.php:173
+msgid "New inbox message received"
+msgstr "Yeni gelen kutusu mesajı alındı"
+
+#: includes/AjaxController.php:657
+#, fuzzy
+#| msgid "Please enter a message to proceed!"
+msgid "Please select a message type!"
+msgstr "Devam etmek için lütfen bir mesaj girin!"
+
+#: includes/AjaxController.php:664 includes/AjaxController.php:776
+msgid "Please enter a message to proceed!"
+msgstr "Devam etmek için lütfen bir mesaj girin!"
+
+#: includes/AjaxController.php:764
+msgid "Recaptcha Challenge Failed. Please try again"
+msgstr "Recaptcha Mücadelesi Başarısız. Lütfen tekrar deneyin"
+
+#: includes/AjaxController.php:773
+msgid "Inquiry on"
+msgstr "hakkında soruşturma"
+
+#: includes/AjaxController.php:800
+msgid "Invalid email format provided"
+msgstr "Geçersiz e-posta biçimi sağlandı"
+
+#: includes/AjaxController.php:841
+msgid "Could not find product"
+msgstr "Ürün bulunamadı"
+
+#: includes/MailController.php:35
+msgid "New Ticket Assigned"
+msgstr "Yeni Bilet Atandı"
+
+#: includes/MailController.php:36
+msgid "A new ticket has been assigned to you"
+msgstr "Size yeni bir bilet atandı"
+
+#: includes/MailController.php:62
+msgid "The customer replied"
+msgstr "müşteri yanıtladı"
+
+#: includes/MailController.php:63 includes/MailController.php:90
+msgid "Re: Inbox Message"
+msgstr "Ynt: Gelen Kutusu Mesajı"
+
+#: includes/MailController.php:89
+msgid "The seller replied your inbox message"
+msgstr "Satıcı gelen kutusu mesajınızı yanıtladı"
+
+#: includes/MailController.php:128
+msgid "The seller replied"
+msgstr "satıcı yanıtladı"
+
+#: includes/MailController.php:129
+msgid "Re: Inquiry Message on"
+msgstr "Ynt: Sorgu Mesajı"
+
+#: includes/MailController.php:165 includes/MailController.php:172
+msgid "New Inbox Message"
+msgstr "Yeni Gelen Kutusu Mesajı"
+
+#: includes/MailController.php:166
+msgid "New Inbox Message regarding"
+msgstr "ilgili Yeni Gelen Kutusu Mesajı"
+
+#: includes/MailController.php:207
+msgid "New message about an item"
+msgstr "Bir öğe hakkında yeni mesaj"
+
+#: includes/MailController.php:208
+msgid "New Inquiry Message on"
+msgstr "Yeni Sorgu Mesajı"
+
+#: includes/SettingController.php:225
+msgid "Product Related"
+msgstr "Ürün ile ilgili"
+
+#: includes/admin/settings/SettingFields.php:23
+msgid "Notification Settings"
+msgstr "Bildirim ayarları"
+
+#: includes/admin/settings/SettingFields.php:29
+#: includes/admin/settings/SettingFields.php:38
+#: includes/admin/settings/SettingFields.php:47
+msgid "Send Email to Admin"
+msgstr "Yöneticiye E-posta Gönder"
+
+#: includes/admin/settings/SettingFields.php:31
+msgid "When a new inquiry message is received"
+msgstr "Yeni bir sorgulama mesajı alındığında"
+
+#: includes/admin/settings/SettingFields.php:40
+msgid "When a new inbox message is received"
+msgstr "Yeni bir gelen kutusu mesajı alındığında"
+
+#: includes/admin/settings/SettingFields.php:49
+msgid "When a customer replies inbox thread"
+msgstr "Bir müşteri gelen kutusu ileti dizisini yanıtladığında"
+
+#: includes/admin/settings/SettingFields.php:56
+#: includes/admin/settings/SettingFields.php:65
+msgid "Send Email to Customer"
+msgstr "Müşteriye E-posta Gönder"
+
+#: includes/admin/settings/SettingFields.php:58
+msgid "When admin replied to an inquiry message received"
+msgstr "Yönetici, alınan bir sorgu iletisine yanıt verdiğinde"
+
+#: includes/admin/settings/SettingFields.php:67
+msgid "When admin replied to inbox message received"
+msgstr "Yönetici gelen kutusu mesajını yanıtladığında"
+
+#: includes/admin/settings/SettingFields.php:92
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: includes/admin/settings/SettingFields.php:98
+msgid "Where do you want to manage inbox messages?"
+msgstr "Gelen kutusu mesajlarını nerede yönetmek istiyorsunuz?"
+
+#: includes/admin/settings/SettingFields.php:99
+msgid "Where inbox messages would be sent too and vice versa"
+msgstr "Gelen kutusu mesajlarının da gönderileceği ve bunun tersi"
+
+#: includes/admin/settings/SettingFields.php:105
+msgid "Wordpress Admin"
+msgstr "Wordpress yönetici"
+
+#: includes/admin/settings/SettingFields.php:106 templates/SetupWizard.php:220
+#: templates/SetupWizard.php:280
+msgid "Zendesk"
+msgstr "Zendesk"
+
+#: includes/admin/settings/SettingFields.php:107 templates/SetupWizard.php:226
+#: templates/SetupWizard.php:359
+msgid "Freshdesk"
+msgstr "Freshdesk"
+
+#: includes/admin/settings/SettingFields.php:112
+msgid "Allow inquiry button?"
+msgstr "Sorgulama düğmesine izin verilsin mi?"
+
+#: includes/admin/settings/SettingFields.php:114
+#: includes/admin/settings/SettingFields.php:164
+#: includes/admin/settings/SettingFields.php:173
+#: includes/admin/settings/SettingFields.php:182
+msgid "This feature available on the full version only"
+msgstr "Bu özellik yalnızca tam sürümde mevcuttur"
+
+#: includes/admin/settings/SettingFields.php:121
+msgid "Allow CTA section on product page?"
+msgstr "Ürün sayfasında CTA bölümüne izin verilsin mi?"
+
+#: includes/admin/settings/SettingFields.php:123
+msgid "Do you want to allow display of Call-To-Action underneath listing"
+msgstr ""
+"Listelemenin altında Harekete Geçirici Mesajın görüntülenmesine izin vermek "
+"istiyor musunuz?"
+
+#: includes/admin/settings/SettingFields.php:129
+msgid "Allow Customer \"My Account\" inbox section?"
+msgstr "Müşterinin “Hesabım” gelen kutusu bölümüne izin verilsin mi?"
+
+#: includes/admin/settings/SettingFields.php:131
+msgid ""
+"Do you want to allow customers to be able to send inbox messages from the "
+"\"My Account\" page"
+msgstr ""
+"Müşterilerin “Hesabım” sayfasından gelen kutusu mesajları gönderebilmesine "
+"izin vermek istiyor musunuz?"
+
+#: includes/admin/settings/SettingFields.php:141
+msgid "Allowed Inbox Message Types"
+msgstr "İzin Verilen Gelen Kutusu İleti Türleri"
+
+#: includes/admin/settings/SettingFields.php:146
+msgid "- \"General\" type?"
+msgstr "- “Genel” tipi?"
+
+#: includes/admin/settings/SettingFields.php:154
+msgid "- \"Product Related\" type?"
+msgstr "- “Ürünle İlgili” tür?"
+
+#: includes/admin/settings/SettingFields.php:162
+msgid "- \"Order Related\" type?"
+msgstr "- “Siparişle İlgili” türü?"
+
+#: includes/admin/settings/SettingFields.php:171
+msgid "- \"Refund Request\" type?"
+msgstr "- “Geri Ödeme Talebi” türü?"
+
+#: includes/admin/settings/SettingFields.php:180
+msgid "- \"Dispute\" type?"
+msgstr "- “İtiraz” türü?"
+
+#: includes/admin/settings/SettingFields.php:193
+msgid "Response Message Settings"
+msgstr "Yanıt Mesajı Ayarları"
+
+#: includes/admin/settings/SettingFields.php:198
+msgid "Once submitted inquiry form on product"
+msgstr "Ürünle ilgili sorgu formu gönderildikten sonra"
+
+#: includes/admin/settings/SettingFields.php:200
+msgid "Do you want to allow customer/guest users ask questions about listing"
+msgstr ""
+"Müşteri/misafir kullanıcıların listeleme hakkında soru sormasına izin vermek "
+"istiyor musunuz?"
+
+#: includes/admin/settings/SettingFields.php:222
+msgid "Sweito Integration"
+msgstr "Sweito Entegrasyonu"
+
+#: includes/admin/settings/SettingFields.php:228
+msgid "Sweito App Token"
+msgstr "Sweito Uygulama Simgesi"
+
+#: includes/admin/settings/SettingFields.php:230
+msgid "Sweito app token generated from https://sweito.com"
+msgstr "https://sweito.com adresinden oluşturulan Sweito uygulama belirteci"
+
+#: includes/admin/settings/SettingFields.php:251
+msgid "Google Recaptcha Settings (v3)"
+msgstr "Google Recaptcha Ayarları (v3)"
+
+#: includes/admin/settings/SettingFields.php:257
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha Site Anahtarı"
+
+#: includes/admin/settings/SettingFields.php:259
+msgid "Your public key as given from google"
+msgstr "Google’dan verilen genel anahtarınız"
+
+#: includes/admin/settings/SettingFields.php:265
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha Gizli Anahtarı"
+
+#: includes/admin/settings/SettingFields.php:267
+msgid "Your secret key as given from google"
+msgstr "Google’dan verilen gizli anahtarınız"
+
+#: includes/admin/settings/SettingFields.php:278
+msgid "User Access Control Settings"
+msgstr "Kullanıcı Erişim Kontrolü Ayarları"
+
+#: includes/admin/settings/SettingFields.php:279
+msgid ""
+"Only users with role \"WooCommerce Inbox Agent\" & \"Administrator\" can be "
+"assigned tickets"
+msgstr ""
+"Yalnızca “WooCommerce Gelen Kutusu Aracısı” ve “Yönetici” rolüne sahip "
+"kullanıcılara bilet atanabilir"
+
+#: includes/admin/settings/SettingFields.php:300
+msgid "Theme Settings"
+msgstr "Tema ayarları"
+
+#: includes/admin/settings/SettingFields.php:305
+msgid "Select ticket chat style to use?"
+msgstr "Kullanılacak bilet sohbet stili seçilsin mi?"
+
+#: includes/admin/settings/SettingFields.php:306
+msgid "Get more theme choice in the full version"
+msgstr "Tam sürümde daha fazla tema seçeneği elde edin"
+
+#: includes/admin/settings/SettingFields.php:313
+msgid "Default Style"
+msgstr "Varsayılan tarz"
+
+#: includes/admin/settings/SettingFields.php:318
+#: includes/admin/settings/SettingFields.php:338
+msgid "Inquiry Button Text"
+msgstr "Sorgu Düğmesi Metni"
+
+#: includes/admin/settings/SettingFields.php:321
+#: includes/admin/settings/SettingFields.php:341
+#: includes/admin/settings/SettingFields.php:360
+#: includes/admin/settings/SettingFields.php:369
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/admin/settings/SettingFields.php:331
+msgid "Inquiry Button Display Settings"
+msgstr "Sorgu Düğmesi Ekran Ayarları"
+
+#: includes/admin/settings/SettingFields.php:333
+msgid ""
+"Skip this section if you didn't \"allow inquiry button\" in the General "
+"section"
+msgstr ""
+"Genel bölümünde “sorgulamaya izin ver düğmesi”ni seçmediyseniz bu bölümü "
+"atlayın."
+
+#: includes/admin/settings/SettingFields.php:347
+msgid "Select button type?"
+msgstr "Düğme türü seçilsin mi?"
+
+#: includes/admin/settings/SettingFields.php:348
+#, fuzzy
+#| msgid "Outlined button"
+msgid "outlined-button"
+msgstr "Seviyelendirilmiş düğme"
+
+#: includes/admin/settings/SettingFields.php:357
+msgid "Button Color"
+msgstr "Düğme rengi"
+
+#: includes/admin/settings/SettingFields.php:366
+msgid "Button Text Color"
+msgstr "Düğme Metin Rengi"
+
+#: includes/admin/settings/SettingFields.php:379
+msgid "Inquiry CTA Display Settings"
+msgstr "Sorgulama CTA Görüntüleme Ayarları"
+
+#: includes/admin/settings/SettingFields.php:381
+msgid ""
+"Skip this section if you didn't \"allow CTA button\" in the General section"
+msgstr "Genel bölümünde “CTA düğmesine izin vermediyseniz” bu bölümü atlayın"
+
+#: includes/admin/settings/SettingFields.php:386
+msgid "CTA Background Style"
+msgstr "CTA Arka Plan Stili"
+
+#: includes/admin/settings/SettingFields.php:387
+msgid "Do you want button icon displayed?"
+msgstr "Düğme simgesinin görüntülenmesini istiyor musunuz?"
+
+#: includes/admin/settings/SettingFields.php:394
+msgid "Color-Filled"
+msgstr "Renk Dolgulu"
+
+#: includes/admin/settings/SettingFields.php:395
+msgid "Background-Image"
+msgstr "Arka plan görüntüsü"
+
+#: includes/admin/settings/SettingFields.php:400
+msgid "CTA Description Text"
+msgstr "CTA Açıklama Metni"
+
+#: includes/admin/settings/SettingFields.php:403
+msgid "The text displayed on CTA Banner"
+msgstr "CTA Banner’da görüntülenen metin"
+
+#: includes/admin/settings/SettingFields.php:409
+msgid "CTA Button Text"
+msgstr "CTA Düğme Metni"
+
+#: includes/admin/settings/SettingFields.php:412
+msgid "The text in the CTA Button"
+msgstr "CTA Düğmesindeki metin"
+
+#: includes/admin/settings/SettingFields.php:418
+msgid "CTA Background Color"
+msgstr "CTA Arka Plan Rengi"
+
+#: includes/admin/settings/SettingFields.php:421
+msgid ""
+"The background color of the CTA Banner (skip if \"CTA Background Style\" is "
+"not \"Color-Filled\")"
+msgstr ""
+"CTA Banner’ın arka plan rengi (“CTA Arka Plan Stili” “Renk Dolgulu” değilse "
+"atlayın)"
+
+#: includes/admin/settings/SettingFields.php:428
+msgid "CTA Background Image Link"
+msgstr "CTA Arkaplan Resmi Bağlantısı"
+
+#: includes/admin/settings/SettingFields.php:431
+msgid ""
+"The background color of the CTA Banner (skip if \"CTA Background Style\" is "
+"not \"Background-Image\")"
+msgstr ""
+"CTA Banner’ın arka plan rengi (“CTA Arka Plan Stili”, “Arka Plan Resmi” "
+"değilse atlayın)"
+
+#: includes/admin/settings/SettingFields.php:437
+msgid "CTA Text Color"
+msgstr "CTA Metin Rengi"
+
+#: includes/admin/settings/SettingFields.php:440
+msgid "The color of the CTA Banner Text"
+msgstr "CTA Banner Metninin rengi"
+
+#: includes/admin/settings/SettingFields.php:446
+msgid "CTA Button Color"
+msgstr "CTA Düğme Rengi"
+
+#: includes/admin/settings/SettingFields.php:449
+msgid "The color of the button in CTA Banner"
+msgstr "CTA Banner’daki düğmenin rengi"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:15
+#, fuzzy
+#| msgid "WooCommerce Inbox"
+msgid "WooCommerce Inboxes"
+msgstr "WooCommerce Gelen Kutusu"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:28
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:29
+msgid "Reference"
+msgstr "Referans"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:30
+#: templates/UserMyAccountInbox.php:40
+msgid "Status"
+msgstr "Durum"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:31
+#: templates/UserMyAccountInbox.php:41
+msgid "Type"
+msgstr "Tip"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:32
+msgid "Sender"
+msgstr "Gönderen"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:33
+msgid "Assigned"
+msgstr "Atandı"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:34
+msgid "Subject"
+msgstr "Ders"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:35
+msgid "Created At"
+msgstr "Oluşturulma Tarihi"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:252
+msgid "No tickets available."
+msgstr "Bilet yok."
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:337
+msgid "Delete"
+msgstr "Silmek"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:338
+msgid "Move to \"Open\""
+msgstr "“Aç” a hareket"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:339
+msgid "Move to \"Closed\""
+msgstr "“Kapalı”ya taşı"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:340
+msgid "Move to \"Archive\""
+msgstr "“Arşiv”e taşı"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:362
+msgid "Tickets has been deleted successfully!"
+msgstr "Biletler başarıyla silindi!"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:373
+msgid "Tickets has been move to OPEN status successfully!"
+msgstr "Biletler başarıyla AÇIK durumuna taşındı!"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:384
+msgid "Tickets has been moved to CLOSED status successfully!"
+msgstr "Biletler başarıyla KAPALI durumuna taşındı!"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:395
+msgid "Tickets has been moved to ARCHIVE status successfully!"
+msgstr "Biletler başarıyla ARŞİV durumuna taşındı!"
+
+#: includes/api/sweito/AccountService.php:37
+#: includes/api/sweito/AccountService.php:74
+#: includes/api/sweito/AccountService.php:105
+msgid "Could not connect to the server. Please check internet connection"
+msgstr "Sunucuya bağlanılamadı. Lütfen internet bağlantısını kontrol edin"
+
+#: templates/ProductAddOn.php:69 templates/SetupWizard.php:97
+#: templates/SetupWizard.php:118
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+#: templates/ProductAddOn.php:71 templates/ProductAddOn.php:77
+#: templates/UserMyAccountInbox.php:66 templates/UserMyAccountInbox.php:77
+#: templates/UserMyAccountInbox.php:218
+msgid "This field is required"
+msgstr "Bu alan gereklidir"
+
+#: templates/ProductAddOn.php:75
+msgid "What do you want to know about this item?"
+msgstr "Bu öğe hakkında ne bilmek istiyorsunuz?"
+
+#: templates/ProductAddOn.php:83 templates/UserMyAccountInbox.php:90
+#: templates/UserMyAccountInbox.php:145
+#: templates/admin/TicketThreadPreview.php:232
+msgid "Send"
+msgstr "Göndermek"
+
+#: templates/ProductAddOn.php:107
+msgid "Sent Successfully!"
+msgstr "Başarıyla gönderildi!"
+
+#: templates/SetupWizard.php:47 templates/error/EssentialPluginMissing.php:15
+msgid "Inbox for WooCommerce"
+msgstr "WooCommerce için Gelen Kutusu"
+
+#: templates/SetupWizard.php:48
+msgid "Welcome to Inbox for WooCommerce Setup!"
+msgstr "WooCommerce Kurulumu için Gelen Kutusuna Hoş Geldiniz!"
+
+#: templates/SetupWizard.php:62
+msgid "Get Started! Signup"
+msgstr "Başlamak! Üye olmak"
+
+#: templates/SetupWizard.php:67
+msgid "First Name"
+msgstr "İlk adı"
+
+#: templates/SetupWizard.php:73
+msgid "Last Name"
+msgstr "Soy isim"
+
+#: templates/SetupWizard.php:82
+#, fuzzy
+#| msgid "Store URL"
+msgid "Store Name"
+msgstr "Mağaza URL’si"
+
+#: templates/SetupWizard.php:88
+msgid "Store URL"
+msgstr "Mağaza URL’si"
+
+#: templates/SetupWizard.php:105
+msgid "Get Started!"
+msgstr "Başlamak!"
+
+#: templates/SetupWizard.php:110 templates/SetupWizard.php:131
+#: templates/SetupWizard.php:153
+msgid "Or"
+msgstr "Veya"
+
+#: templates/SetupWizard.php:110
+msgid "I already have a Sweito Account"
+msgstr "Zaten bir Sweito Hesabım var"
+
+#: templates/SetupWizard.php:113
+msgid "Welcome Back! Signin"
+msgstr "Tekrar hoşgeldiniz! Kayıt olmak"
+
+#: templates/SetupWizard.php:126
+msgid "Sign In!"
+msgstr "Kayıt olmak!"
+
+#: templates/SetupWizard.php:131
+msgid "Don't have an account? Sign Up"
+msgstr "Hesabınız yok mu? Üye olmak"
+
+#: templates/SetupWizard.php:134
+msgid "Verify your email to continue"
+msgstr "Devam etmek için e-posta adresinizi doğrulayın"
+
+#: templates/SetupWizard.php:135
+msgid "We have sent an email with an access OTP to "
+msgstr "OTP erişimi olan bir e-posta gönderdik:"
+
+#: templates/SetupWizard.php:135
+msgid "if your account exist in out records"
+msgstr "hesabınız kayıtlarda varsa"
+
+#: templates/SetupWizard.php:140
+msgid "Enter OTP"
+msgstr "OTP’yi girin"
+
+#: templates/SetupWizard.php:148
+msgid "Verify OTP"
+msgstr "OTP’yi doğrulayın"
+
+#: templates/SetupWizard.php:153
+msgid "I want to change my email address"
+msgstr "e-posta adresimi değiştirmek istiyorum"
+
+#: templates/SetupWizard.php:161
+msgid "Enter your purchase key"
+msgstr "Satın alma anahtarınızı girin"
+
+#: templates/SetupWizard.php:171
+msgid "Purchase Key"
+msgstr "Satın Alma Anahtarı"
+
+#: templates/SetupWizard.php:182 templates/SetupWizard.php:239
+msgid "Continue"
+msgstr "Devam et"
+
+#: templates/SetupWizard.php:191
+msgid "Select where you wish to manage tickets"
+msgstr "Biletleri yönetmek istediğiniz yeri seçin"
+
+#: templates/SetupWizard.php:203
+msgid "WordPress Admin"
+msgstr "WordPress Yöneticisi"
+
+#: templates/SetupWizard.php:248 templates/SetupWizard.php:327
+msgid "Change Store URL"
+msgstr "Mağaza URL’sini Değiştir"
+
+#: templates/SetupWizard.php:257 templates/SetupWizard.php:336
+#: templates/admin/TicketThreadPreview.php:81
+#: templates/admin/TicketThreadPreview.php:88
+msgid "Update"
+msgstr "Güncelleme"
+
+#: templates/SetupWizard.php:268
+msgid "Authenticate your Zendesk Account"
+msgstr "Zendesk Hesabınızın kimliğini doğrulayın"
+
+#: templates/SetupWizard.php:296
+msgid ""
+"We would be redirecting you to Sweito to Authenticate your Zendesk account "
+"and \n"
+"                                    return back here to continue the process"
+msgstr ""
+"Zendesk hesabınızın kimliğini doğrulamak için sizi Sweito’ya yönlendiriyor "
+"olacağız ve\n"
+"                                     işleme devam etmek için buraya geri "
+"dönün"
+
+#: templates/SetupWizard.php:300 templates/SetupWizard.php:380
+msgid "Authenticate"
+msgstr "kimlik doğrulama"
+
+#: templates/SetupWizard.php:302 templates/SetupWizard.php:382
+msgid ""
+"Please Note: By proceeding, you are agreeing to the terms and conditions "
+"governing the use of Sweito application"
+msgstr ""
+"Lütfen Dikkat: Devam ederek, Sweito uygulamasının kullanımını yöneten hüküm "
+"ve koşulları kabul etmiş olursunuz."
+
+#: templates/SetupWizard.php:303 templates/SetupWizard.php:383
+msgid ""
+"If you just created an account, your password for Sweito has been sent to "
+"your email address. Use this to login in the Sweito"
+msgstr ""
+"Yeni bir hesap oluşturduysanız, Sweito şifreniz e-posta adresinize "
+"gönderilmiştir. Sweito’da oturum açmak için bunu kullanın"
+
+#: templates/SetupWizard.php:314 templates/SetupWizard.php:394
+msgid ""
+"Once you have completed the authentication process, click here to verify and "
+"continue"
+msgstr ""
+"Kimlik doğrulama işlemini tamamladıktan sonra, doğrulamak ve devam etmek "
+"için burayı tıklayın"
+
+#: templates/SetupWizard.php:315 templates/SetupWizard.php:395
+msgid "Verify Auth"
+msgstr "Yetkilendirmeyi Doğrula"
+
+#: templates/SetupWizard.php:318 templates/SetupWizard.php:398
+#: templates/UserMyAccountInbox.php:98
+msgid "Go Back"
+msgstr "Geri dön"
+
+#: templates/SetupWizard.php:347
+msgid "Authenticate your Freshdesk Account"
+msgstr "Freshdesk Hesabınızın kimliğini doğrulayın"
+
+#: templates/SetupWizard.php:376
+msgid ""
+"We would be redirecting you to Sweito to Authenticate your Freshdesk account "
+"and \n"
+"                                    return back here to continue the process"
+msgstr ""
+"Freshdesk hesabınızın kimliğini doğrulamak için sizi Sweito’ya yönlendiriyor "
+"olacağız ve\n"
+"                                     işleme devam etmek için buraya geri "
+"dönün"
+
+#: templates/SetupWizard.php:406
+msgid "Personalize your settings"
+msgstr "Ayarlarınızı kişiselleştirin"
+
+#: templates/SetupWizard.php:418
+msgid "Allow customer \"Inbox\" section in MyAccount page for registered users"
+msgstr ""
+"Kayıtlı kullanıcılar için Hesabım sayfasındaki müşteri “Gelen Kutusu” "
+"bölümüne izin ver"
+
+#: templates/SetupWizard.php:431
+msgid "Allow inquire box on product display screen"
+msgstr "Ürün görüntüleme ekranında sorgulama kutusuna izin ver"
+
+#: templates/SetupWizard.php:444
+msgid "Allow CTA Banner on product display screen"
+msgstr "Ürün görüntüleme ekranında CTA Banner’a izin ver"
+
+#: templates/SetupWizard.php:454
+msgid "Complete Setup"
+msgstr "Kurulumu Tamamla"
+
+#: templates/SetupWizard.php:457
+msgid "Skip"
+msgstr "Atlamak"
+
+#: templates/UserMyAccountInbox.php:19
+msgid "Messages (Inbox)"
+msgstr "Mesajlar (Gelen Kutusu)"
+
+#: templates/UserMyAccountInbox.php:20
+msgid ""
+"Send messages to the store owner here or ask the seller about a product."
+msgstr ""
+"Mağaza sahibine buradan mesaj gönderin veya satıcıya bir ürün hakkında sorun."
+
+#: templates/UserMyAccountInbox.php:33
+msgid "No message found in your inbox"
+msgstr "Gelen kutunuzda mesaj bulunamadı"
+
+#: templates/UserMyAccountInbox.php:39
+msgid "Ref"
+msgstr "Referans"
+
+#: templates/UserMyAccountInbox.php:42
+msgid "Last Updated"
+msgstr "Son güncelleme"
+
+#: templates/UserMyAccountInbox.php:43
+msgid "Action"
+msgstr "Eylem"
+
+#: templates/UserMyAccountInbox.php:55
+msgid "Select Message type"
+msgstr "Mesaj türünü seçin"
+
+#: templates/UserMyAccountInbox.php:57
+msgid "~ Select a type ~"
+msgstr "~ Bir tür seçin ~"
+
+#: templates/UserMyAccountInbox.php:75
+msgid "Enter Description"
+msgstr "Açıklama Girin"
+
+#: templates/UserMyAccountInbox.php:82 templates/UserMyAccountInbox.php:128
+msgid "attachment(s) added"
+msgstr "ek(ler) eklendi"
+
+#: templates/UserMyAccountInbox.php:85 templates/UserMyAccountInbox.php:131
+msgid "Drop"
+msgstr "Düşürmek"
+
+#: templates/UserMyAccountInbox.php:91 templates/UserMyAccountInbox.php:146
+#: templates/admin/TicketThreadPreview.php:233
+msgid "Attach File"
+msgstr "Dosya eki"
+
+#: templates/UserMyAccountInbox.php:182
+#: templates/admin/TicketThreadPreview.php:606
+msgid "Ref:"
+msgstr "Referans:"
+
+#: templates/UserMyAccountInbox.php:185
+#: templates/admin/TicketThreadPreview.php:609
+msgid "Status:"
+msgstr "Durum:"
+
+#: templates/UserMyAccountInbox.php:190
+msgid "TYPE:"
+msgstr "TİP:"
+
+#: templates/UserMyAccountInbox.php:193
+#: templates/admin/TicketThreadPreview.php:617
+msgid "Date Created:"
+msgstr "Tarih oluşturuldu:"
+
+#: templates/UserMyAccountInbox.php:204
+msgid "Select Product"
+msgstr "Ürünü seç"
+
+#: templates/UserMyAccountInbox.php:228
+msgid "New Message"
+msgstr "Yeni Mesaj"
+
+#: templates/admin/TicketThreadPreview.php:29
+msgid ""
+"You do not have permission to view this ticket, contact the Administrator to "
+"assign this ticket to you"
+msgstr ""
+"Bu bileti görüntüleme izniniz yok, bu bileti size ataması için Yönetici ile "
+"iletişime geçin."
+
+#: templates/admin/TicketThreadPreview.php:48
+msgid "Thread"
+msgstr "İplik"
+
+#: templates/admin/TicketThreadPreview.php:129
+msgid "UPGRADE TO FULL VERSION"
+msgstr "TAM SÜRÜME YÜKSELTİN"
+
+#: templates/admin/TicketThreadPreview.php:137
+msgid "Multiple Chat Themes"
+msgstr "Çoklu Sohbet Temaları"
+
+#: templates/admin/TicketThreadPreview.php:143
+#, fuzzy
+#| msgid "Allowed Inbox Message Types"
+msgid "Additional Message Type"
+msgstr "İzin Verilen Gelen Kutusu İleti Türleri"
+
+#: templates/admin/TicketThreadPreview.php:149
+msgid "Unlocked Preview Sidebar"
+msgstr "Kilitsiz Önizleme Kenar Çubuğu"
+
+#: templates/admin/TicketThreadPreview.php:155
+#, fuzzy
+#| msgid "Move to \"Archive\""
+msgid "Ticket Archives"
+msgstr "“Arşiv”e taşı"
+
+#: templates/admin/TicketThreadPreview.php:160
+msgid "+ more features"
+msgstr "+ daha fazla özellik"
+
+#: templates/admin/TicketThreadPreview.php:167
+msgid "You can get the full package now by clicking on the button below"
+msgstr "Aşağıdaki butona tıklayarak tam pakete hemen sahip olabilirsiniz."
+
+#: templates/admin/TicketThreadPreview.php:168
+#, fuzzy
+#| msgid "Purchase Key"
+msgid "Purchase Now"
+msgstr "Satın Alma Anahtarı"
+
+#: templates/admin/TicketThreadPreview.php:210
+msgid "User"
+msgstr "kullanıcı"
+
+#: templates/admin/TicketThreadPreview.php:211
+msgid "Visit User Profile"
+msgstr "Kullanıcı Profilini Ziyaret Edin"
+
+#: templates/admin/TicketThreadPreview.php:614
+msgid "Type:"
+msgstr "Tip:"
+
+#: templates/admin/TicketThreadPreview.php:631
+msgid "Active Tickets"
+msgstr "Aktif Biletler"
+
+#: templates/error/EssentialPluginMissing.php:17
+msgid "WooCommerce Plugin Not Installed"
+msgstr "WooCommerce Eklentisi Yüklenmedi"
+
+#: templates/error/EssentialPluginMissing.php:18
+msgid ""
+"Could not find WooCommerce installed on your WordPress, please install "
+"WooCommerce to proceed!"
+msgstr ""
+"WordPress’inizde yüklü WooCommerce bulunamadı, devam etmek için lütfen "
+"WooCommerce’i yükleyin!"
+
+#: templates/mail/AdminInboxMessageReplied.php:18
+msgid "The customer wrote:"
+msgstr "Müşteri şunları yazdı:"
+
+#: templates/mail/AdminInboxMessageReplied.php:25
+msgid "Kindly log back into your account to view/reply to this message."
+msgstr ""
+"Bu mesajı görüntülemek/cevaplamak için lütfen hesabınıza tekrar giriş yapın."
+
+#: templates/mail/AdminNewInboxMessage.php:18
+#: templates/mail/AdminNewInboxMessage.php:26
+msgid "has sent you a new inbox message. The message type created is under"
+msgstr ""
+"size yeni bir gelen kutusu mesajı gönderdi. Oluşturulan mesaj türü altında"
+
+#: templates/mail/AdminNewInboxMessage.php:20
+#: templates/mail/AdminNewInboxMessage.php:34
+#: templates/mail/AdminNewInquiryMessage.php:25
+msgid "Kindly log into your store to view the message and reply."
+msgstr "Mesajı görüntülemek ve yanıtlamak için lütfen mağazanıza giriş yapın."
+
+#: templates/mail/AdminNewInquiryMessage.php:18
+msgid ""
+"has sent you a new message regarding an item you listed in your store. The "
+"details of the item being inquired is below:"
+msgstr ""
+"mağazanızda listelediğiniz bir ürünle ilgili size yeni bir mesaj gönderdi. "
+"Sorgulanan öğenin ayrıntıları aşağıdadır:"
+
+#: templates/mail/CustomerInquiryReply.php:17
+#: templates/mail/CustomerMessageReply.php:17
+msgid "The seller wrote:"
+msgstr "Satıcı şunları yazdı:"
+
+#: templates/mail/CustomerInquiryReply.php:22
+msgid "You wrote:"
+msgstr "Sen yazdın:"
+
+#: templates/mail/CustomerInquiryReply.php:39
+msgid ""
+"You can still visit the shop and make a purchase for this item using the "
+"link below."
+msgstr ""
+"Yine de aşağıdaki bağlantıyı kullanarak mağazayı ziyaret edebilir ve bu ürün "
+"için satın alabilirsiniz."
+
+#: templates/mail/CustomerMessageReply.php:24
+msgid ""
+"Kindly log back into your account to view and reply if need be to the "
+"message."
+msgstr ""
+"Mesajı görüntülemek ve gerekirse yanıtlamak için lütfen hesabınıza tekrar "
+"giriş yapın."
+
+#: templates/mail/NewTicketAssigned.php:20
+msgid "You have been assigned a new ticket on the store WooCommerce Inbox."
+msgstr "WooCommerce Gelen Kutusu mağazasında size yeni bir bilet atandı."
+
+#: templates/mail/NewTicketAssigned.php:23
+msgid "Kindly log back into your account to view/reply to this ticker."
+msgstr ""
+"Lütfen bu ticker’ı görüntülemek/yanıtlamak için hesabınıza tekrar giriş "
+"yapın."
+
+#~ msgid "Order Related"
+#~ msgstr "Siparişle İlgili"
+
+#~ msgid "Refund"
+#~ msgstr "Geri ödeme"
+
+#~ msgid "Dispute"
+#~ msgstr "Anlaşmazlık"
+
+#~ msgid "Zendesk Integration"
+#~ msgstr "Zendesk Entegrasyonu"
+
+#~ msgid "Authenticate Zendesk Account"
+#~ msgstr "Zendesk Hesabını Doğrula"
+
+#~ msgid "Freshdesk Integration"
+#~ msgstr "Freshdesk Entegrasyonu"
+
+#~ msgid "Authenticate Freshdesk Account"
+#~ msgstr "Freshdesk Hesabını Doğrulayın"
+
+#~ msgid "Select how you want the inbox to be displayed."
+#~ msgstr "Gelen kutusunun nasıl görüntülenmesini istediğinizi seçin."
+
+#~ msgid "Style - 2"
+#~ msgstr "Stil - 2"
+
+#~ msgid "Style - 3"
+#~ msgstr "Stil - 3"
+
+#~ msgid "Select the type of button that would be displayed."
+#~ msgstr "Görüntülenecek düğme türünü seçin."
+
+#~ msgid "Regular button"
+#~ msgstr "Normal düğme"
+
+#~ msgid "Show button icon?"
+#~ msgstr "Düğme simgesi gösterilsin mi?"
+
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Show icon before text"
+#~ msgstr "Simgeyi metinden önce göster"
+
+#~ msgid "Show icon after text"
+#~ msgstr "Metinden sonra simgeyi göster"
+
+#~ msgid "Select button icon?"
+#~ msgstr "Düğme simgesi seçilsin mi?"
+
+#~ msgid "Select the icon type you want displayed?"
+#~ msgstr "Görüntülenmesini istediğiniz simge türünü seçin?"
+
+#~ msgid "Circle-Chat-Icon"
+#~ msgstr "Çember-Sohbet-Simgesi"
+
+#~ msgid "Square-Chat-Icon"
+#~ msgstr "Kare-Sohbet-Simgesi"
+
+#~ msgid "This ticket status has been updated!"
+#~ msgstr "Bu bilet durumu güncellendi!"
+
+#~ msgid "This ticket assigned agent has been updated!"
+#~ msgstr "Bu bilete atanan temsilci güncellendi!"
+
+#~ msgid "Assigned Agent"
+#~ msgstr "Atanan Temsilci"
+
+#~ msgid "Ticket Status"
+#~ msgstr "Bilet Durumu"
+
+#~ msgid "Company Name"
+#~ msgstr "Firma Adı"

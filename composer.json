@@ -1,0 +1,7 @@
+{
+    "name": "sweito/inbox-for-woocommerce",
+    "description": "Allows customer messaging",
+    "require": {
+        "woocommerce/woocommerce-sniffs": "^0.1.3"
+    }
+}

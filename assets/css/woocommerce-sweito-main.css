@@ -1,0 +1,688 @@
+.wcs-row {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.wcs-col-2 {
+    flex: 20%;
+}
+
+.wcs-col-3 {
+    flex: 33%;
+}
+
+.wcs-col-4 {
+    flex: 40%;
+}
+
+.wcs-col-6 {
+    flex: 50%;
+}
+
+.wcs-col-7 {
+    flex: 47%;
+}
+
+.wcs-col-8 {
+    flex: 60%;
+}
+
+.wcs-col-9 {
+    flex: 66%;
+}
+
+.wcs-col-10 {
+    flex: 80%;
+}
+
+.wcs-col-12 {
+    flex: 100%;
+}
+
+.wcs-card {
+    background-color: white;
+    max-width: 800px;
+    border-radius: 8px;
+    min-height: 200px;
+    padding: 50px;
+    padding-bottom: 70px;
+}
+
+.wcs-card-center {
+    margin: 0 auto;
+}
+
+.wcs-input {
+    width: 95%;
+}
+
+.wcs-input-textarea {
+    width: 95%;
+    border-color: #dbdbdb;
+    padding: 10px;
+}
+
+.wcs-input-select {
+    width: 100%;
+    border-color: #dbdbdb;
+}
+
+.wcs-text-center {
+    text-align: center;
+}
+
+.wcs-helpdesk-cards {
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    min-height: 100px;
+    max-width: 150px;
+    padding: 20px;
+    margin-right: 5px;
+}
+
+.wcs-helpdesk-img {
+    max-width: 150px;
+}
+
+.wcs-helpdesk-freshdesk-img {
+    max-width: 85px;
+}
+
+.wcs-helpdesk-wordpress-img {
+    max-width: 85px;
+}
+
+.wsc-helpdesk-text {
+    margin-top: -10px;
+}
+
+.wsc-card-cursor-point {
+    cursor: pointer;
+}
+
+.wcs-helpdesk-active {
+    box-shadow: 1px 2px 10px 1px #75cdee;
+}
+
+.wcs-margin-top-12 {
+    margin-top: 12px !important;
+}
+
+.wcs-text-right {
+    text-align: right;
+}
+
+.wcs-ticket-list-status {
+    background-color: #e85a5c;
+    padding: 2px 5px;
+    font-size: 8px;
+    color: white;
+    text-transform: lowercase;
+    border-radius: 15px;
+}
+
+/***********************/
+/***********************/
+/***********************/
+/*TICKET THREAD SECTION*/
+/***********************/
+/***********************/
+/***********************/
+
+.wcs-header-title {
+    line-height: 40px;
+}
+
+.wcs-ticket-thread-active-list {
+    background-color: #fff; 
+    width: 100%; 
+    height: 90vh; 
+    box-shadow: 1px 2px 5px 0px #d3d3d3;
+}
+
+.wcs-ticket-thread-active-list-inner {
+    padding: 15px;
+    height: 80vh;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.wcs-ticket-thread-active-list-header {
+    color: #dbdbdb;
+    margin-bottom: 5px;
+}
+
+.wcs-ticket-thread-active-status-header {
+    color: #a9a9a9;
+    margin-bottom: 5px;
+}
+
+.wcs-ticket-thread-active-item-container {
+    border-top: 1px solid #dbdbdb;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.wcs-ticket-thread-active-item-container:hover {
+    background-color: #dbdbdb;
+}
+
+.wcs-ticket-thread-active-list-username {
+    color: #a9a9a9;
+}
+
+.wcs-ticket-thread-active-list-subject {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 3px 0px;
+}
+
+.wcs-ticket-thread-active-list-reference {
+    color: #a9a9a9;
+    font-size: 10px;
+}
+
+.wcs-preview-selected-container {
+    border: 1px solid #d3d3d3;
+    padding: 10px;
+}
+
+.form-group {
+    position: relative;
+}
+
+.wcs-alert-success {
+    background-color: #d2f7d2;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#wcsPreviewSelectedProduct, #wooCommerceSweitoThreadReplySection {
+    margin: 0px 10px;
+}
+
+.wcs-button-block {
+    width: 100%;
+    min-height: 30px;
+    text-align: center;
+    margin-right: 0px  !important;
+    margin-top: 5px !important;
+}
+
+.wcs-ticket-thread-user-profile {
+    background-color: #fff; 
+    width: 95%; 
+    box-shadow: 1px 2px 5px 0px #d3d3d3;
+}
+
+.wcs-ticket-thread-user-status {
+    background-color: #fff; 
+    width: 95%; 
+    box-shadow: 1px 2px 5px 0px #d3d3d3;
+}
+
+.wcs-ticket-thread-user-profile-inner {
+    margin-top: 0px;
+    padding: 15px;
+}
+
+.wcs-ticket-thread-user-status-inner {
+    padding: 15px;
+}
+
+.wcs-ticket-thread-user-status-item {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    border-top: 1px solid #dbdbdb;
+}
+
+.wcs-ticket-thread-user-profile-img-container {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+    background-color: transparent; 
+    margin: 0 auto; 
+    border-color: 1px solid white; 
+    margin-top: -80px;
+}
+
+.wcs-ticket-thread-user-profile-img-preview {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+}
+
+.wcs-ticket-list-link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.wcs-setup-change-url-popup {
+    position: absolute; 
+    right: 0; 
+    min-height: 30px; 
+    width: 400px; 
+    background-color: #fff; 
+    padding: 15px; 
+    box-shadow: 1px 2px 4px 3px #dbdbdb;
+    z-index: 3;
+}
+
+.wcs-setup-change-url-button {
+    font-size: 12px; 
+    text-decoration: none; 
+    color: inherit; 
+    cursor: pointer;
+}
+
+.wcs-setup-change-shadow {
+    background-color: rgba(0,0,0,0.3); 
+    position: fixed; 
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+}
+
+.wcs-table-status-new, .wcs-table-status-open, 
+.wcs-table-status-closed, .wcs-table-status-archive {
+    background-color: #58b666;
+    padding: 4px 15px;
+    font-size: 10px;
+    color: white;
+    text-transform: lowercase;
+    border-radius: 15px;
+}
+
+.wcs-table-status-closed {
+    background-color: #f8b666;
+}
+
+.wcs-table-status-archive {
+    background-color: #e74747;
+}
+
+.wcs-ticket-upload-documents {
+    border: 1px solid #d3d3d3; 
+    background-color: #fff; 
+    margin-bottom: 0px; 
+    padding: 10px; 
+}
+
+.wcs-faded-section {
+    width: 95%; height:400px; filter: blur(8px); -webkit-filter: blur(8px); background-color: darkgray;
+}
+
+.wcs-faded-inner-section {
+    background-color: #f0f0f1; width: 100%; height: 150px; margin-top: 20px; filter: blur(8px); -webkit-filter: blur(8px);
+}
+
+.wcs-faded-overlay-section {
+    position: absolute; top: 40%; width: 100%; text-align: center;
+}
+
+.wcs-faded-button {
+    cursor: pointer; background-color: #2271b1; color: #ffffff; padding: 5px 10px; width: 150px; margin: 0 auto; border-radius: 8px
+}
+
+.wcs-upgrade-background{
+    position: fixed; top: 0; bottom: 0; left: 0; right: 0; background-color: rgba(0,0,0,0.5); z-index: 15; display: none;
+}
+
+.wcs-upgrade-card{
+    background-color: #ffffff; position: fixed; top: 20%; left: 20%; width: 60%; border-radius: 8px; min-height: 350px; padding: 20px
+}
+
+.wcs-upgrade-title {
+    font-size: 2.5em; margin-top: 35px; line-height: 30px;
+}
+
+.wcs-upgrade-check{
+    width: 50px
+}
+
+.wcs-upgrade-img {
+    width: 100px;
+}
+
+.wcs-upgrade-check-list {
+    font-size: 1.5em; margin-top: 20px; line-height: 30px;
+}
+
+.wcs-upgrade-more {
+    margin: 0 auto;font-size: 1.5em; margin-top: 25px; background-color: green; color: #ffffff; padding: 15px 20px; width: 200px;
+}
+
+.wcs-upgrade-text{
+    font-size: 1.5em; margin-top: 45px; line-height: 30px;
+}
+
+.wcs-upgrade-purchase-button {
+    margin: 0 auto; font-size: 2.0em; line-height: 40px; margin-top: 25px; background-color: orange; color: #333333; border-radius: 8px; padding: 15px 20px; width: 220px;
+}
+
+.wcs-purchase-link{
+    text-decoration: none;
+}
+
+.wcs-upgrae-close-box{
+    background-color: rgba(0,0,0,0.8); cursor: pointer; color: #dbdbdb; width: 30px; height: 30px; border-radius: 50%; position: fixed; top: 15%; right: 18%;
+}
+
+.wcs-upgrade-close{
+    text-align: center; font-size: 2.0em; margin-top: 5px;
+}
+/******************************************/
+/* Chat Style 1 */
+/******************************************/
+#wcs-chat-style-1{
+	padding-left:0;
+	margin: 0px 10px;
+	list-style-type:none;
+	overflow-y:scroll;
+	height:535px;
+	border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+    background-color: #fff;
+}
+#wcs-chat-style-1 li{
+	padding:10px 30px;
+}
+#wcs-chat-style-1 h2,#chat h3{
+	display:inline-block;
+	font-size:13px;
+	font-weight:normal;
+    margin-bottom: 0px !important;
+}
+#wcs-chat-style-1 h3{
+	color:#bbb;
+    font-size:10px;
+    display: inline-block;
+    margin-bottom: 0px !important;
+}
+#wcs-chat-style-1 .entete{
+	margin-bottom:5px;
+}
+#wcs-chat-style-1 .message{
+	padding:20px;
+	color:#fff;
+	line-height:25px;
+	max-width:90%;
+	display:inline-block;
+	text-align:left;
+	border-radius:5px;
+}
+#wcs-chat-style-1 .me{
+	text-align:right;
+}
+#wcs-chat-style-1 .you .message{
+	background-color:#58b666;
+}
+#wcs-chat-style-1 .me .message{
+	background-color:#6fbced;
+}
+#wcs-chat-style-1 .triangle{
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 10px 10px 10px;
+}
+#wcs-chat-style-1 .you .triangle{
+    border-color: transparent transparent #58b666 transparent;
+    margin-left:15px;
+}
+#wcs-chat-style-1 .me .triangle{
+    border-color: transparent transparent #6fbced transparent;
+    margin-left: 95%;
+}
+.wcs-reply-section {
+    background-color: #fff;
+}
+.wcs-row-padding{
+    padding: 10px;
+}
+.wcs-message-thread-rule {
+    border-color: #fff;
+    margin: 1px;
+}
+.wcs-button-block {
+    /* width: 100%; */
+    min-height: 30px;
+    text-align: center;
+    margin-right: 0px  !important;
+    margin-top: 5px !important;
+}
+.wcs-margin-top-10 {
+    margin-top: 7px;
+    display: inline-block;
+}
+.wcs-link-text-style-1 {
+    color: #fff;
+}
+.wcs-link-text-style-1:hover {
+    color: #fff;
+}
+.wcs-link-text-style-2, .wcs-link-text-style-2:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+/*****************************************/
+/** Chat Style 1 END **/
+/*****************************************/
+
+/*******************************************/
+/** Chat Style 2 **/
+/*****************************************/
+.wcs-style-2-chat-messages {
+    border-top: 1px solid rgba(0, 0, 0, .05);
+    padding: 10px;
+    overflow-y:scroll;
+	height:535px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    flex: 1;
+    margin: 0px 10px;
+    background-color: #fff;
+}
+
+.wcs-style-2-message-box-holder {
+    width: 100%;
+    margin: 0 0 15px;
+    display: flex;
+    flex-flow: column;
+    align-items: flex-end;
+}
+
+.wcs-style-2-message-sender {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin: 0 0 15px;
+    color: #30649c;
+    align-self: flex-start;
+}
+
+.wcs-style-2-message-sender span {
+    color: #b4b2b2;
+    font-size: 10px;
+}
+
+.wcs-style-2-message-receiver {
+    font-family: 'Lato', sans-serif;
+    font-size: 10px;
+    margin: 8px 0 15px;
+    color: #b4b2b2;
+    align-self: flex-end;
+}
+
+.wcs-style-2-message-sender a, .message-sender a:link, .message-sender a:visited, .chat-partner-name a, .chat-partner-name a:link, .chat-partner-name a:visited {
+    color: #30649c;
+    text-decoration: none;
+}
+
+.wcs-style-2-message-box {
+    padding: 6px 10px;
+    border-radius: 6px 0 6px 0;
+    position: relative;
+    background: rgba(100, 170, 0, .1);
+    border: 2px solid rgba(100, 170, 0, .1);
+    color: #6c6c6c;
+    font-size: 12px;
+}
+
+.wcs-style-2-message-box:after {
+    content: "";
+    position: absolute;
+    border: 10px solid transparent;
+    border-top: 10px solid rgba(100, 170, 0, .2);
+    border-right: none;
+    bottom: -22px;
+    right: 10px;
+}
+
+.wcs-style-2-message-partner {
+    background: rgba(0, 114, 135, .1);
+    border: 2px solid rgba(0, 114, 135, .1);
+    align-self: flex-start;
+}
+
+.wcs-style-2-message-partner:after {
+    right: auto;
+    bottom: auto;
+    top: -22px;
+    left: 9px;
+    border: 10px solid transparent;
+    border-bottom: 10px solid rgba(0, 114, 135, .2);
+    border-left: none;
+}
+
+/*****************************************/
+/** CHat STyle 2 END **/
+/*****************************************/
+
+/*******************************************/
+/** Chat Style 3 **/
+/*****************************************/
+.wcs-style-3-chat {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: auto;
+	overflow-y:scroll;
+	height:535px;
+	z-index: 2;
+    margin: 0px 10px;
+	box-sizing: border-box;
+	background: white;
+	box-shadow: 0 0 8rem 0 rgba(black, 0.1);
+}
+	
+.wcs-style-3-chat .contact.bar {
+    flex-basis: 3.5rem;
+    flex-shrink: 0;
+    margin: 1rem;
+    box-sizing: border-box;
+}
+	
+.wcs-style-3-chat .messages {
+    padding: 1rem;
+    background: #F7F7F7;
+    height:535px;
+    flex-shrink: 2;
+    overflow-y: auto;
+    box-shadow: 
+        inset 0 2rem 2rem -2rem rgba(black, 0.05),
+        inset 0 -2rem 2rem -2rem rgba(black, 0.05);
+}
+		
+.wcs-style-3-chat .messages .time {
+    font-size: 0.8rem;
+    background: #EEE;
+    padding: 0.25rem 1rem;
+    border-radius: 2rem;
+    color: #999;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.wcs-style-3-chat .messages .time span {
+    font-size: 10px;
+}
+		
+.wcs-style-3-chat .messages .message {
+    box-sizing: border-box;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    background: #dbdbdb;
+    border-radius: 1.125rem 1.125rem 1.125rem 0;
+    min-height: 2.25rem;
+    width: fit-content;
+    max-width: 66%;
+    
+    box-shadow: 
+        0 0 2rem rgba(black, 0.075),
+        0rem 1rem 1rem -1rem rgba(black, 0.1);
+}
+			
+.wcs-style-3-chat .messages .message.parker {
+    margin: 1rem 1rem 1rem auto ;
+    border-radius: 1.125rem 1.125rem 0 1.125rem;
+    background: #333;
+    color: white;
+}
+
+.wcs-reply-section-style-3 {
+    background-color: #F7F7F7;
+    border-left: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+}
+/*****************************************/
+/** CHat STyle 3 END **/
+/*****************************************/
+
+
+
+@media (max-width: 500px) {
+    .wcs-ticket-thread-active-list {
+        display: none;
+    }
+
+    .wcs-ticket-thread-user-profile {
+        margin-top: 20px;
+    }
+    
+    .wcs-upgrade-card{
+        top: 10%; left: 5%; width: 70%; position: absolute;
+    }
+
+    .wcs-upgrae-close-box{
+        top: 5%; right: 18%;
+    }
+
+    .wcs-upgrade-title {
+        font-size: 1.5em; margin-top: 0px;
+    }
+    
+    .wcs-upgrade-check{
+        width: 50px
+    }
+    
+    .wcs-upgrade-img {
+        width: 30px;
+    }
+
+    .wcs-upgrade-text{
+        font-size: 1.5em; margin-top: 25px; line-height: 30px;
+    }
+
+    .wcs-upgrade-check-list {
+        font-size: 1.0em; margin-top: 15px; line-height: 30px;
+    }
+}

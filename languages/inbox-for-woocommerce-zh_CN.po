@@ -1,0 +1,1138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inbox-for-woocommerce\n"
+"POT-Creation-Date: 2022-12-14 15:50+0100\n"
+"PO-Revision-Date: 2022-12-14 15:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../inbox-for-woocommerce-lte\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inbox-controller-lte.php:91
+msgid "WooCommerce Inbox Agent"
+msgstr "WooCommerce 收件箱代理"
+
+#: inbox-controller-lte.php:127
+msgid "Settings"
+msgstr "设置"
+
+#: inbox-controller-lte.php:190
+msgid "Entered OTP does not match"
+msgstr "输入的 OTP 不匹配"
+
+#: inbox-controller-lte.php:191
+msgid "The provided OTP does not match"
+msgstr "提供的 OTP 不匹配"
+
+#: inbox-controller-lte.php:192 templates/admin/TicketThreadPreview.php:208
+msgid "Guest User"
+msgstr "访客用户"
+
+#: inbox-controller-lte.php:193
+msgid ""
+"Thank you for reaching out. We would get back to you as soon as possible."
+msgstr "感谢您伸出援手。 我们会尽快回复您。"
+
+#: inbox-controller-lte.php:194
+msgid "Need help?"
+msgstr "需要帮忙？"
+
+#: inbox-controller-lte.php:195
+msgid "Not sure it matches your specification?"
+msgstr "不确定它是否符合您的规格？"
+
+#: inbox-controller-lte.php:196
+msgid "Ask the Seller"
+msgstr "询问卖家"
+
+#: inbox-controller-lte.php:215 templates/ProductAddOn.php:61
+#: templates/UserMyAccountInbox.php:23 templates/UserMyAccountInbox.php:215
+msgid "Please wait ..."
+msgstr "请稍等 …"
+
+#: inbox-controller-lte.php:216
+msgid "Just Now"
+msgstr "现在"
+
+#: inbox-controller-lte.php:270 inbox-controller-lte.php:284
+msgid "Inbox"
+msgstr "收件箱"
+
+#: inbox-controller-lte.php:299 includes/SettingController.php:222
+msgid "General"
+msgstr "一般的"
+
+#: inbox-controller-lte.php:300
+msgid "Theme"
+msgstr "主题"
+
+#: inbox-controller-lte.php:301
+msgid "Security"
+msgstr "安全"
+
+#: inbox-controller-lte.php:302
+msgid "Third-Party"
+msgstr "第三者"
+
+#: inbox-controller-lte.php:303
+msgid "Notifications"
+msgstr "通知"
+
+#: inbox-controller-lte.php:411
+msgid "Unlock new chat themes"
+msgstr "解锁新的聊天主题"
+
+#: inbox-controller-lte.php:411
+msgid "upgrade to full version"
+msgstr "升级到完整版"
+
+#: inbox-table-controller.php:33
+#: includes/admin/woocommerce-sweito-tickets-table.php:14
+#: templates/admin/TicketThreadPreview.php:48
+msgid "WooCommerce Inbox"
+msgstr "WooCommerce 收件箱"
+
+#: inbox-table-controller.php:63
+msgid "All"
+msgstr "全部"
+
+#: inbox-table-controller.php:64
+msgid "New"
+msgstr "新的"
+
+#: inbox-table-controller.php:65
+msgid "Open"
+msgstr "打开"
+
+#: inbox-table-controller.php:66
+msgid "Closed"
+msgstr "关闭"
+
+#: inbox-table-controller.php:67
+msgid "Archived"
+msgstr "存档"
+
+#: inbox-table-controller.php:89
+msgid ""
+"The version you are using has expired and not up to date with the latest "
+"security updates. Please update to the latest version as soon as possible."
+msgstr ""
+"您使用的版本已过期，并且没有与最新的安全更新保持同步。 请尽快更新到最新版本。"
+
+#: inbox-table-controller.php:89 inbox-table-controller.php:92
+msgid "Click here to get the latest version"
+msgstr "点击此处获取最新版本"
+
+#: inbox-table-controller.php:92
+msgid ""
+"A new update exist for your 'inbox-for-woocommerce' extension. Please update "
+"to latest version to get the latest update in security, features and others."
+msgstr ""
+"您的“inbox-for-woocommerce”扩展程序存在新更新。 请更新到最新版本以获取安全、"
+"功能和其他方面的最新更新。"
+
+#: inbox-table-controller.php:95 templates/admin/TicketThreadPreview.php:113
+msgid ""
+"You are currently using the free version (light-version). UPGRADE to the "
+"full version to access more features like different chat display themes, "
+"different inbox categories and others."
+msgstr ""
+"您目前使用的是免费版（精简版）。 升级到完整版以访问更多功能，如不同的聊天显示"
+"主题、不同的收件箱类别等。"
+
+#: inbox-table-controller.php:95 templates/admin/TicketThreadPreview.php:113
+msgid "Click here to purchase full version now"
+msgstr "点击此处立即购买完整版"
+
+#: includes/AjaxController.php:480 includes/AjaxController.php:534
+#, fuzzy
+#| msgid "Please enter a message to proceed!"
+msgid "Please enter a reply to proceed!"
+msgstr "请输入信息以继续！"
+
+#: includes/AjaxController.php:487 includes/AjaxController.php:541
+#: includes/AjaxController.php:573 includes/AjaxController.php:595
+#: includes/AjaxController.php:671
+msgid "You need to be logged in to access this endpoint"
+msgstr "您需要登录才能访问此端点"
+
+#: includes/AjaxController.php:565 includes/AjaxController.php:619
+#: includes/AjaxController.php:705 includes/AjaxController.php:748
+#: includes/AjaxController.php:831 includes/AjaxController.php:897
+#, fuzzy
+#| msgid "Could not find product"
+msgid "Could not verify nonce"
+msgstr "找不到产品"
+
+#: includes/AjaxController.php:646
+#, fuzzy
+#| msgid "New Inbox Message regarding"
+msgid "New inbox message regarding"
+msgstr "新收件箱消息关于"
+
+#: includes/AjaxController.php:649 includes/MailController.php:173
+msgid "New inbox message received"
+msgstr "收到新的收件箱消息"
+
+#: includes/AjaxController.php:657
+#, fuzzy
+#| msgid "Please enter a message to proceed!"
+msgid "Please select a message type!"
+msgstr "请输入信息以继续！"
+
+#: includes/AjaxController.php:664 includes/AjaxController.php:776
+msgid "Please enter a message to proceed!"
+msgstr "请输入信息以继续！"
+
+#: includes/AjaxController.php:764
+msgid "Recaptcha Challenge Failed. Please try again"
+msgstr "验证码挑战失败。 请再试一次"
+
+#: includes/AjaxController.php:773
+msgid "Inquiry on"
+msgstr "询价"
+
+#: includes/AjaxController.php:800
+msgid "Invalid email format provided"
+msgstr "提供的电子邮件格式无效"
+
+#: includes/AjaxController.php:841
+msgid "Could not find product"
+msgstr "找不到产品"
+
+#: includes/MailController.php:35
+msgid "New Ticket Assigned"
+msgstr "已分配新票"
+
+#: includes/MailController.php:36
+msgid "A new ticket has been assigned to you"
+msgstr "已为您分配了一张新票"
+
+#: includes/MailController.php:62
+msgid "The customer replied"
+msgstr "客户回复了"
+
+#: includes/MailController.php:63 includes/MailController.php:90
+msgid "Re: Inbox Message"
+msgstr "回复：收件箱消息"
+
+#: includes/MailController.php:89
+msgid "The seller replied your inbox message"
+msgstr "卖家回复了您的收件箱消息"
+
+#: includes/MailController.php:128
+msgid "The seller replied"
+msgstr "卖家回复了"
+
+#: includes/MailController.php:129
+msgid "Re: Inquiry Message on"
+msgstr "回复：查询留言"
+
+#: includes/MailController.php:165 includes/MailController.php:172
+msgid "New Inbox Message"
+msgstr "新收件箱消息"
+
+#: includes/MailController.php:166
+msgid "New Inbox Message regarding"
+msgstr "新收件箱消息关于"
+
+#: includes/MailController.php:207
+msgid "New message about an item"
+msgstr "关于项目的新消息"
+
+#: includes/MailController.php:208
+msgid "New Inquiry Message on"
+msgstr "新的询价信息"
+
+#: includes/SettingController.php:225
+msgid "Product Related"
+msgstr "产品相关"
+
+#: includes/admin/settings/SettingFields.php:23
+msgid "Notification Settings"
+msgstr "通知设置"
+
+#: includes/admin/settings/SettingFields.php:29
+#: includes/admin/settings/SettingFields.php:38
+#: includes/admin/settings/SettingFields.php:47
+msgid "Send Email to Admin"
+msgstr "向管理员发送电子邮件"
+
+#: includes/admin/settings/SettingFields.php:31
+msgid "When a new inquiry message is received"
+msgstr "当收到新的查询消息时"
+
+#: includes/admin/settings/SettingFields.php:40
+msgid "When a new inbox message is received"
+msgstr "收到新收件箱消息时"
+
+#: includes/admin/settings/SettingFields.php:49
+msgid "When a customer replies inbox thread"
+msgstr "当客户回复收件箱线程时"
+
+#: includes/admin/settings/SettingFields.php:56
+#: includes/admin/settings/SettingFields.php:65
+msgid "Send Email to Customer"
+msgstr "向客户发送电子邮件"
+
+#: includes/admin/settings/SettingFields.php:58
+msgid "When admin replied to an inquiry message received"
+msgstr "当管理员回复收到的询问消息时"
+
+#: includes/admin/settings/SettingFields.php:67
+msgid "When admin replied to inbox message received"
+msgstr "当管理员回复收到的收件箱消息时"
+
+#: includes/admin/settings/SettingFields.php:92
+msgid "General Settings"
+msgstr "通用设置"
+
+#: includes/admin/settings/SettingFields.php:98
+msgid "Where do you want to manage inbox messages?"
+msgstr "您想在哪里管理收件箱消息？"
+
+#: includes/admin/settings/SettingFields.php:99
+msgid "Where inbox messages would be sent too and vice versa"
+msgstr "收件箱消息也会发送到哪里，反之亦然"
+
+#: includes/admin/settings/SettingFields.php:105
+msgid "Wordpress Admin"
+msgstr "WordPress 管理员"
+
+#: includes/admin/settings/SettingFields.php:106 templates/SetupWizard.php:220
+#: templates/SetupWizard.php:280
+msgid "Zendesk"
+msgstr "Zendesk"
+
+#: includes/admin/settings/SettingFields.php:107 templates/SetupWizard.php:226
+#: templates/SetupWizard.php:359
+msgid "Freshdesk"
+msgstr "Freshdesk"
+
+#: includes/admin/settings/SettingFields.php:112
+msgid "Allow inquiry button?"
+msgstr "允许查询按钮？"
+
+#: includes/admin/settings/SettingFields.php:114
+#: includes/admin/settings/SettingFields.php:164
+#: includes/admin/settings/SettingFields.php:173
+#: includes/admin/settings/SettingFields.php:182
+msgid "This feature available on the full version only"
+msgstr "此功能仅适用于完整版"
+
+#: includes/admin/settings/SettingFields.php:121
+msgid "Allow CTA section on product page?"
+msgstr "允许产品页面上的 CTA 部分？"
+
+#: includes/admin/settings/SettingFields.php:123
+msgid "Do you want to allow display of Call-To-Action underneath listing"
+msgstr "是否允许在列表下方显示号召性用语"
+
+#: includes/admin/settings/SettingFields.php:129
+msgid "Allow Customer \"My Account\" inbox section?"
+msgstr "允许客户“我的帐户”收件箱部分？"
+
+#: includes/admin/settings/SettingFields.php:131
+msgid ""
+"Do you want to allow customers to be able to send inbox messages from the "
+"\"My Account\" page"
+msgstr "您是否希望客户能够从“我的帐户”页面发送收件箱消息"
+
+#: includes/admin/settings/SettingFields.php:141
+msgid "Allowed Inbox Message Types"
+msgstr "允许的收件箱消息类型"
+
+#: includes/admin/settings/SettingFields.php:146
+msgid "- \"General\" type?"
+msgstr "- “一般”类型？"
+
+#: includes/admin/settings/SettingFields.php:154
+msgid "- \"Product Related\" type?"
+msgstr "- “产品相关”类型？"
+
+#: includes/admin/settings/SettingFields.php:162
+msgid "- \"Order Related\" type?"
+msgstr "- “订单相关”类型？"
+
+#: includes/admin/settings/SettingFields.php:171
+msgid "- \"Refund Request\" type?"
+msgstr "- “退款请求”类型？"
+
+#: includes/admin/settings/SettingFields.php:180
+msgid "- \"Dispute\" type?"
+msgstr "- “争议”类型？"
+
+#: includes/admin/settings/SettingFields.php:193
+msgid "Response Message Settings"
+msgstr "响应消息设置"
+
+#: includes/admin/settings/SettingFields.php:198
+msgid "Once submitted inquiry form on product"
+msgstr "提交产品查询表后"
+
+#: includes/admin/settings/SettingFields.php:200
+msgid "Do you want to allow customer/guest users ask questions about listing"
+msgstr "您是否要允许客户/访客用户询问有关列表的问题"
+
+#: includes/admin/settings/SettingFields.php:222
+msgid "Sweito Integration"
+msgstr "Sweito 整合"
+
+#: includes/admin/settings/SettingFields.php:228
+msgid "Sweito App Token"
+msgstr "Sweito 应用令牌"
+
+#: includes/admin/settings/SettingFields.php:230
+msgid "Sweito app token generated from https://sweito.com"
+msgstr "从 https://sweito.com 生成的 Sweito 应用令牌"
+
+#: includes/admin/settings/SettingFields.php:251
+msgid "Google Recaptcha Settings (v3)"
+msgstr "Google Recaptcha 设置 (v3)"
+
+#: includes/admin/settings/SettingFields.php:257
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha 网站密钥"
+
+#: includes/admin/settings/SettingFields.php:259
+msgid "Your public key as given from google"
+msgstr "谷歌提供的你的公钥"
+
+#: includes/admin/settings/SettingFields.php:265
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha 密钥"
+
+#: includes/admin/settings/SettingFields.php:267
+msgid "Your secret key as given from google"
+msgstr "谷歌提供的你的密钥"
+
+#: includes/admin/settings/SettingFields.php:278
+msgid "User Access Control Settings"
+msgstr "用户访问控制设置"
+
+#: includes/admin/settings/SettingFields.php:279
+msgid ""
+"Only users with role \"WooCommerce Inbox Agent\" & \"Administrator\" can be "
+"assigned tickets"
+msgstr "只能为具有“WooCommerce 收件箱代理”和“管理员”角色的用户分配工单"
+
+#: includes/admin/settings/SettingFields.php:300
+msgid "Theme Settings"
+msgstr "主题设置"
+
+#: includes/admin/settings/SettingFields.php:305
+msgid "Select ticket chat style to use?"
+msgstr "选择要使用的票务聊天风格？"
+
+#: includes/admin/settings/SettingFields.php:306
+msgid "Get more theme choice in the full version"
+msgstr "在完整版中获得更多主题选择"
+
+#: includes/admin/settings/SettingFields.php:313
+msgid "Default Style"
+msgstr "默认样式"
+
+#: includes/admin/settings/SettingFields.php:318
+#: includes/admin/settings/SettingFields.php:338
+msgid "Inquiry Button Text"
+msgstr "查询按钮文本"
+
+#: includes/admin/settings/SettingFields.php:321
+#: includes/admin/settings/SettingFields.php:341
+#: includes/admin/settings/SettingFields.php:360
+#: includes/admin/settings/SettingFields.php:369
+msgid "Default"
+msgstr "默认"
+
+#: includes/admin/settings/SettingFields.php:331
+msgid "Inquiry Button Display Settings"
+msgstr "查询按钮显示设置"
+
+#: includes/admin/settings/SettingFields.php:333
+msgid ""
+"Skip this section if you didn't \"allow inquiry button\" in the General "
+"section"
+msgstr "如果您在常规部分没有“允许查询按钮”，请跳过此部分"
+
+#: includes/admin/settings/SettingFields.php:347
+msgid "Select button type?"
+msgstr "选择按钮类型？"
+
+#: includes/admin/settings/SettingFields.php:348
+#, fuzzy
+#| msgid "Outlined button"
+msgid "outlined-button"
+msgstr "概述按钮"
+
+#: includes/admin/settings/SettingFields.php:357
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: includes/admin/settings/SettingFields.php:366
+msgid "Button Text Color"
+msgstr "按钮文字颜色"
+
+#: includes/admin/settings/SettingFields.php:379
+msgid "Inquiry CTA Display Settings"
+msgstr "查询 CTA 显示设置"
+
+#: includes/admin/settings/SettingFields.php:381
+msgid ""
+"Skip this section if you didn't \"allow CTA button\" in the General section"
+msgstr "如果您在“常规”部分中没有“允许 CTA 按钮”，请跳过此部分"
+
+#: includes/admin/settings/SettingFields.php:386
+msgid "CTA Background Style"
+msgstr "CTA 背景样式"
+
+#: includes/admin/settings/SettingFields.php:387
+msgid "Do you want button icon displayed?"
+msgstr "你想显示按钮图标吗？"
+
+#: includes/admin/settings/SettingFields.php:394
+msgid "Color-Filled"
+msgstr "填色"
+
+#: includes/admin/settings/SettingFields.php:395
+msgid "Background-Image"
+msgstr "背景图片"
+
+#: includes/admin/settings/SettingFields.php:400
+msgid "CTA Description Text"
+msgstr "CTA 描述文本"
+
+#: includes/admin/settings/SettingFields.php:403
+msgid "The text displayed on CTA Banner"
+msgstr "CTA 横幅上显示的文本"
+
+#: includes/admin/settings/SettingFields.php:409
+msgid "CTA Button Text"
+msgstr "CTA 按钮文本"
+
+#: includes/admin/settings/SettingFields.php:412
+msgid "The text in the CTA Button"
+msgstr "CTA 按钮中的文本"
+
+#: includes/admin/settings/SettingFields.php:418
+msgid "CTA Background Color"
+msgstr "CTA 背景颜色"
+
+#: includes/admin/settings/SettingFields.php:421
+msgid ""
+"The background color of the CTA Banner (skip if \"CTA Background Style\" is "
+"not \"Color-Filled\")"
+msgstr "CTA 横幅的背景颜色（如果“CTA 背景样式”不是“填充颜色”则跳过）"
+
+#: includes/admin/settings/SettingFields.php:428
+msgid "CTA Background Image Link"
+msgstr "CTA 背景图片链接"
+
+#: includes/admin/settings/SettingFields.php:431
+msgid ""
+"The background color of the CTA Banner (skip if \"CTA Background Style\" is "
+"not \"Background-Image\")"
+msgstr "CTA 横幅的背景颜色（如果“CTA 背景样式”不是“背景图片”则跳过）"
+
+#: includes/admin/settings/SettingFields.php:437
+msgid "CTA Text Color"
+msgstr "CTA 文本颜色"
+
+#: includes/admin/settings/SettingFields.php:440
+msgid "The color of the CTA Banner Text"
+msgstr "CTA 横幅文本的颜色"
+
+#: includes/admin/settings/SettingFields.php:446
+msgid "CTA Button Color"
+msgstr "CTA 按钮颜色"
+
+#: includes/admin/settings/SettingFields.php:449
+msgid "The color of the button in CTA Banner"
+msgstr "CTA 横幅中按钮的颜色"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:15
+#, fuzzy
+#| msgid "WooCommerce Inbox"
+msgid "WooCommerce Inboxes"
+msgstr "WooCommerce 收件箱"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:28
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:29
+msgid "Reference"
+msgstr "参考"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:30
+#: templates/UserMyAccountInbox.php:40
+msgid "Status"
+msgstr "地位"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:31
+#: templates/UserMyAccountInbox.php:41
+msgid "Type"
+msgstr "类型"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:32
+msgid "Sender"
+msgstr "发件人"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:33
+msgid "Assigned"
+msgstr "已分配"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:34
+msgid "Subject"
+msgstr "主题"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:35
+msgid "Created At"
+msgstr "创建于"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:252
+msgid "No tickets available."
+msgstr "没有门票。"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:337
+msgid "Delete"
+msgstr "删除"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:338
+msgid "Move to \"Open\""
+msgstr "移至“打开”"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:339
+msgid "Move to \"Closed\""
+msgstr "移动到“关闭”"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:340
+msgid "Move to \"Archive\""
+msgstr "移至“存档”"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:362
+msgid "Tickets has been deleted successfully!"
+msgstr "门票已成功删除！"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:373
+msgid "Tickets has been move to OPEN status successfully!"
+msgstr "门票已成功转为 OPEN 状态！"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:384
+msgid "Tickets has been moved to CLOSED status successfully!"
+msgstr "门票已成功转为 CLOSED 状态！"
+
+#: includes/admin/woocommerce-sweito-tickets-table.php:395
+msgid "Tickets has been moved to ARCHIVE status successfully!"
+msgstr "门票已成功转为存档状态！"
+
+#: includes/api/sweito/AccountService.php:37
+#: includes/api/sweito/AccountService.php:74
+#: includes/api/sweito/AccountService.php:105
+msgid "Could not connect to the server. Please check internet connection"
+msgstr "不可连接至服务器。 请检查互联网连接"
+
+#: templates/ProductAddOn.php:69 templates/SetupWizard.php:97
+#: templates/SetupWizard.php:118
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: templates/ProductAddOn.php:71 templates/ProductAddOn.php:77
+#: templates/UserMyAccountInbox.php:66 templates/UserMyAccountInbox.php:77
+#: templates/UserMyAccountInbox.php:218
+msgid "This field is required"
+msgstr "这是必填栏"
+
+#: templates/ProductAddOn.php:75
+msgid "What do you want to know about this item?"
+msgstr "你想知道关于这个项目的什么？"
+
+#: templates/ProductAddOn.php:83 templates/UserMyAccountInbox.php:90
+#: templates/UserMyAccountInbox.php:145
+#: templates/admin/TicketThreadPreview.php:232
+msgid "Send"
+msgstr "发送"
+
+#: templates/ProductAddOn.php:107
+msgid "Sent Successfully!"
+msgstr "成功发送！"
+
+#: templates/SetupWizard.php:47 templates/error/EssentialPluginMissing.php:15
+msgid "Inbox for WooCommerce"
+msgstr "WooCommerce 的收件箱"
+
+#: templates/SetupWizard.php:48
+msgid "Welcome to Inbox for WooCommerce Setup!"
+msgstr "欢迎使用收件箱进行 WooCommerce 设置！"
+
+#: templates/SetupWizard.php:62
+msgid "Get Started! Signup"
+msgstr "开始吧！ 注册"
+
+#: templates/SetupWizard.php:67
+msgid "First Name"
+msgstr "名"
+
+#: templates/SetupWizard.php:73
+msgid "Last Name"
+msgstr "姓"
+
+#: templates/SetupWizard.php:82
+#, fuzzy
+#| msgid "Store URL"
+msgid "Store Name"
+msgstr "商店网址"
+
+#: templates/SetupWizard.php:88
+msgid "Store URL"
+msgstr "商店网址"
+
+#: templates/SetupWizard.php:105
+msgid "Get Started!"
+msgstr "开始吧！"
+
+#: templates/SetupWizard.php:110 templates/SetupWizard.php:131
+#: templates/SetupWizard.php:153
+msgid "Or"
+msgstr "或者"
+
+#: templates/SetupWizard.php:110
+msgid "I already have a Sweito Account"
+msgstr "我已经有一个 Sweito 帐户"
+
+#: templates/SetupWizard.php:113
+msgid "Welcome Back! Signin"
+msgstr "欢迎回来！ 登入"
+
+#: templates/SetupWizard.php:126
+msgid "Sign In!"
+msgstr "登入！"
+
+#: templates/SetupWizard.php:131
+msgid "Don't have an account? Sign Up"
+msgstr "没有帐户？ 报名"
+
+#: templates/SetupWizard.php:134
+msgid "Verify your email to continue"
+msgstr "验证您的电子邮件以继续"
+
+#: templates/SetupWizard.php:135
+msgid "We have sent an email with an access OTP to "
+msgstr "我们已发送一封包含 OTP 访问权限的电子邮件至"
+
+#: templates/SetupWizard.php:135
+msgid "if your account exist in out records"
+msgstr "如果您的帐户存在于 out 记录中"
+
+#: templates/SetupWizard.php:140
+msgid "Enter OTP"
+msgstr "输入一次性密码"
+
+#: templates/SetupWizard.php:148
+msgid "Verify OTP"
+msgstr "验证一次性密码"
+
+#: templates/SetupWizard.php:153
+msgid "I want to change my email address"
+msgstr "我想更改我的电子邮件地址"
+
+#: templates/SetupWizard.php:161
+msgid "Enter your purchase key"
+msgstr "输入您的购买密钥"
+
+#: templates/SetupWizard.php:171
+msgid "Purchase Key"
+msgstr "购买钥匙"
+
+#: templates/SetupWizard.php:182 templates/SetupWizard.php:239
+msgid "Continue"
+msgstr "继续"
+
+#: templates/SetupWizard.php:191
+msgid "Select where you wish to manage tickets"
+msgstr "选择您希望管理工单的位置"
+
+#: templates/SetupWizard.php:203
+msgid "WordPress Admin"
+msgstr "WordPress 管理员"
+
+#: templates/SetupWizard.php:248 templates/SetupWizard.php:327
+msgid "Change Store URL"
+msgstr "更改商店 URL"
+
+#: templates/SetupWizard.php:257 templates/SetupWizard.php:336
+#: templates/admin/TicketThreadPreview.php:81
+#: templates/admin/TicketThreadPreview.php:88
+msgid "Update"
+msgstr "更新"
+
+#: templates/SetupWizard.php:268
+msgid "Authenticate your Zendesk Account"
+msgstr "验证您的 Zendesk 帐户"
+
+#: templates/SetupWizard.php:296
+msgid ""
+"We would be redirecting you to Sweito to Authenticate your Zendesk account "
+"and \n"
+"                                    return back here to continue the process"
+msgstr ""
+"我们会将您重定向到 Sweito 以验证您的 Zendesk 帐户和\n"
+"                                     返回此处继续该过程"
+
+#: templates/SetupWizard.php:300 templates/SetupWizard.php:380
+msgid "Authenticate"
+msgstr "认证"
+
+#: templates/SetupWizard.php:302 templates/SetupWizard.php:382
+msgid ""
+"Please Note: By proceeding, you are agreeing to the terms and conditions "
+"governing the use of Sweito application"
+msgstr "请注意：继续操作即表示您同意使用 Sweito 应用程序的条款和条件"
+
+#: templates/SetupWizard.php:303 templates/SetupWizard.php:383
+msgid ""
+"If you just created an account, your password for Sweito has been sent to "
+"your email address. Use this to login in the Sweito"
+msgstr ""
+"如果您刚刚创建了一个帐户，您的 Sweito 密码已发送到您的电子邮件地址。 使用它登"
+"录 Sweito"
+
+#: templates/SetupWizard.php:314 templates/SetupWizard.php:394
+msgid ""
+"Once you have completed the authentication process, click here to verify and "
+"continue"
+msgstr "完成身份验证过程后，单击此处进行验证并继续"
+
+#: templates/SetupWizard.php:315 templates/SetupWizard.php:395
+msgid "Verify Auth"
+msgstr "验证身份"
+
+#: templates/SetupWizard.php:318 templates/SetupWizard.php:398
+#: templates/UserMyAccountInbox.php:98
+msgid "Go Back"
+msgstr "回去"
+
+#: templates/SetupWizard.php:347
+msgid "Authenticate your Freshdesk Account"
+msgstr "验证您的 Freshdesk 帐户"
+
+#: templates/SetupWizard.php:376
+msgid ""
+"We would be redirecting you to Sweito to Authenticate your Freshdesk account "
+"and \n"
+"                                    return back here to continue the process"
+msgstr ""
+"我们会将您重定向到 Sweito 以验证您的 Freshdesk 帐户和\n"
+"                                     返回此处继续该过程"
+
+#: templates/SetupWizard.php:406
+msgid "Personalize your settings"
+msgstr "个性化您的设置"
+
+#: templates/SetupWizard.php:418
+msgid "Allow customer \"Inbox\" section in MyAccount page for registered users"
+msgstr "允许注册用户在“我的帐户”页面中的客户“收件箱”部分"
+
+#: templates/SetupWizard.php:431
+msgid "Allow inquire box on product display screen"
+msgstr "允许在产品显示屏上出现查询框"
+
+#: templates/SetupWizard.php:444
+msgid "Allow CTA Banner on product display screen"
+msgstr "允许在产品显示屏幕上显示 CTA 横幅"
+
+#: templates/SetupWizard.php:454
+msgid "Complete Setup"
+msgstr "完成设置"
+
+#: templates/SetupWizard.php:457
+msgid "Skip"
+msgstr "跳过"
+
+#: templates/UserMyAccountInbox.php:19
+msgid "Messages (Inbox)"
+msgstr "消息（收件箱）"
+
+#: templates/UserMyAccountInbox.php:20
+msgid ""
+"Send messages to the store owner here or ask the seller about a product."
+msgstr "在此处向店主发送消息或向卖家询问产品。"
+
+#: templates/UserMyAccountInbox.php:33
+msgid "No message found in your inbox"
+msgstr "在您的收件箱中未找到任何消息"
+
+#: templates/UserMyAccountInbox.php:39
+msgid "Ref"
+msgstr "参考"
+
+#: templates/UserMyAccountInbox.php:42
+msgid "Last Updated"
+msgstr "最近更新时间"
+
+#: templates/UserMyAccountInbox.php:43
+msgid "Action"
+msgstr "行动"
+
+#: templates/UserMyAccountInbox.php:55
+msgid "Select Message type"
+msgstr "选择消息类型"
+
+#: templates/UserMyAccountInbox.php:57
+msgid "~ Select a type ~"
+msgstr "~ 选择类型 ~"
+
+#: templates/UserMyAccountInbox.php:75
+msgid "Enter Description"
+msgstr "输入描述"
+
+#: templates/UserMyAccountInbox.php:82 templates/UserMyAccountInbox.php:128
+msgid "attachment(s) added"
+msgstr "添加了附件"
+
+#: templates/UserMyAccountInbox.php:85 templates/UserMyAccountInbox.php:131
+msgid "Drop"
+msgstr "降低"
+
+#: templates/UserMyAccountInbox.php:91 templates/UserMyAccountInbox.php:146
+#: templates/admin/TicketThreadPreview.php:233
+msgid "Attach File"
+msgstr "附加文件"
+
+#: templates/UserMyAccountInbox.php:182
+#: templates/admin/TicketThreadPreview.php:606
+msgid "Ref:"
+msgstr "参考"
+
+#: templates/UserMyAccountInbox.php:185
+#: templates/admin/TicketThreadPreview.php:609
+msgid "Status:"
+msgstr "地位"
+
+#: templates/UserMyAccountInbox.php:190
+msgid "TYPE:"
+msgstr "类型"
+
+#: templates/UserMyAccountInbox.php:193
+#: templates/admin/TicketThreadPreview.php:617
+msgid "Date Created:"
+msgstr "创建日期"
+
+#: templates/UserMyAccountInbox.php:204
+msgid "Select Product"
+msgstr "选择产品"
+
+#: templates/UserMyAccountInbox.php:228
+msgid "New Message"
+msgstr "新消息"
+
+#: templates/admin/TicketThreadPreview.php:29
+msgid ""
+"You do not have permission to view this ticket, contact the Administrator to "
+"assign this ticket to you"
+msgstr "您无权查看此票证，请联系管理员将此票证分配给您"
+
+#: templates/admin/TicketThreadPreview.php:48
+msgid "Thread"
+msgstr "线"
+
+#: templates/admin/TicketThreadPreview.php:129
+msgid "UPGRADE TO FULL VERSION"
+msgstr "升级到完整版"
+
+#: templates/admin/TicketThreadPreview.php:137
+msgid "Multiple Chat Themes"
+msgstr "多个聊天主题"
+
+#: templates/admin/TicketThreadPreview.php:143
+#, fuzzy
+#| msgid "Allowed Inbox Message Types"
+msgid "Additional Message Type"
+msgstr "允许的收件箱消息类型"
+
+#: templates/admin/TicketThreadPreview.php:149
+msgid "Unlocked Preview Sidebar"
+msgstr "解锁预览边栏"
+
+#: templates/admin/TicketThreadPreview.php:155
+#, fuzzy
+#| msgid "Move to \"Archive\""
+msgid "Ticket Archives"
+msgstr "移至“存档”"
+
+#: templates/admin/TicketThreadPreview.php:160
+msgid "+ more features"
+msgstr "+ 更多功能"
+
+#: templates/admin/TicketThreadPreview.php:167
+msgid "You can get the full package now by clicking on the button below"
+msgstr "您现在可以点击下面的按钮获得完整的包裹"
+
+#: templates/admin/TicketThreadPreview.php:168
+#, fuzzy
+#| msgid "Purchase Key"
+msgid "Purchase Now"
+msgstr "购买钥匙"
+
+#: templates/admin/TicketThreadPreview.php:210
+msgid "User"
+msgstr "用户"
+
+#: templates/admin/TicketThreadPreview.php:211
+msgid "Visit User Profile"
+msgstr "访问用户资料"
+
+#: templates/admin/TicketThreadPreview.php:614
+msgid "Type:"
+msgstr "类型"
+
+#: templates/admin/TicketThreadPreview.php:631
+msgid "Active Tickets"
+msgstr "有效门票"
+
+#: templates/error/EssentialPluginMissing.php:17
+msgid "WooCommerce Plugin Not Installed"
+msgstr "未安装 WooCommerce 插件"
+
+#: templates/error/EssentialPluginMissing.php:18
+msgid ""
+"Could not find WooCommerce installed on your WordPress, please install "
+"WooCommerce to proceed!"
+msgstr ""
+"找不到在您的 WordPress 上安装的 WooCommerce，请安装 WooCommerce 以继续！"
+
+#: templates/mail/AdminInboxMessageReplied.php:18
+msgid "The customer wrote:"
+msgstr "客户写道："
+
+#: templates/mail/AdminInboxMessageReplied.php:25
+msgid "Kindly log back into your account to view/reply to this message."
+msgstr "请重新登录您的帐户以查看/回复此消息。"
+
+#: templates/mail/AdminNewInboxMessage.php:18
+#: templates/mail/AdminNewInboxMessage.php:26
+msgid "has sent you a new inbox message. The message type created is under"
+msgstr "已向您发送了一条新的收件箱消息。 创建的消息类型在"
+
+#: templates/mail/AdminNewInboxMessage.php:20
+#: templates/mail/AdminNewInboxMessage.php:34
+#: templates/mail/AdminNewInquiryMessage.php:25
+msgid "Kindly log into your store to view the message and reply."
+msgstr "请登录您的商店查看消息并回复。"
+
+#: templates/mail/AdminNewInquiryMessage.php:18
+msgid ""
+"has sent you a new message regarding an item you listed in your store. The "
+"details of the item being inquired is below:"
+msgstr ""
+"已向您发送一条关于您在商店中列出的商品的新消息。 查询项目的详细信息如下："
+
+#: templates/mail/CustomerInquiryReply.php:17
+#: templates/mail/CustomerMessageReply.php:17
+msgid "The seller wrote:"
+msgstr "卖家写道："
+
+#: templates/mail/CustomerInquiryReply.php:22
+msgid "You wrote:"
+msgstr "你写了："
+
+#: templates/mail/CustomerInquiryReply.php:39
+msgid ""
+"You can still visit the shop and make a purchase for this item using the "
+"link below."
+msgstr "您仍然可以访问商店并使用以下链接购买此商品。"
+
+#: templates/mail/CustomerMessageReply.php:24
+msgid ""
+"Kindly log back into your account to view and reply if need be to the "
+"message."
+msgstr "如果需要，请重新登录您的帐户查看和回复消息。"
+
+#: templates/mail/NewTicketAssigned.php:20
+msgid "You have been assigned a new ticket on the store WooCommerce Inbox."
+msgstr "您已在商店 WooCommerce 收件箱上分配了一张新票。"
+
+#: templates/mail/NewTicketAssigned.php:23
+msgid "Kindly log back into your account to view/reply to this ticker."
+msgstr "请重新登录您的帐户以查看/回复此代码。"
+
+#~ msgid "Order Related"
+#~ msgstr "订单相关"
+
+#~ msgid "Refund"
+#~ msgstr "退款"
+
+#~ msgid "Dispute"
+#~ msgstr "争议"
+
+#~ msgid "Zendesk Integration"
+#~ msgstr "Zendesk 集成"
+
+#~ msgid "Authenticate Zendesk Account"
+#~ msgstr "验证 Zendesk 帐户"
+
+#~ msgid "Freshdesk Integration"
+#~ msgstr "Freshdesk 集成"
+
+#~ msgid "Authenticate Freshdesk Account"
+#~ msgstr "验证 Freshdesk 帐户"
+
+#~ msgid "Select how you want the inbox to be displayed."
+#~ msgstr "选择收件箱的显示方式。"
+
+#~ msgid "Style - 2"
+#~ msgstr "风格 - 2"
+
+#~ msgid "Style - 3"
+#~ msgstr "风格 - 3"
+
+#~ msgid "Select the type of button that would be displayed."
+#~ msgstr "选择要显示的按钮类型。"
+
+#~ msgid "Regular button"
+#~ msgstr "常规按钮"
+
+#~ msgid "Show button icon?"
+#~ msgstr "显示按钮图标？"
+
+#~ msgid "None"
+#~ msgstr "没有任何"
+
+#~ msgid "Show icon before text"
+#~ msgstr "在文本前显示图标"
+
+#~ msgid "Show icon after text"
+#~ msgstr "在文本后显示图标"
+
+#~ msgid "Select button icon?"
+#~ msgstr "选择按钮图标？"
+
+#~ msgid "Select the icon type you want displayed?"
+#~ msgstr "选择要显示的图标类型？"
+
+#~ msgid "Circle-Chat-Icon"
+#~ msgstr "圆形聊天图标"
+
+#~ msgid "Square-Chat-Icon"
+#~ msgstr "方形聊天图标"
+
+#~ msgid "This ticket status has been updated!"
+#~ msgstr "此票状态已更新！"
+
+#~ msgid "This ticket assigned agent has been updated!"
+#~ msgstr "此票分配代理已更新！"
+
+#~ msgid "Assigned Agent"
+#~ msgstr "指定代理"
+
+#~ msgid "Ticket Status"
+#~ msgstr "票证状态"
+
+#~ msgid "Company Name"
+#~ msgstr "公司名称"

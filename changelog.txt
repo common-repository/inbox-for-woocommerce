@@ -1,0 +1,7 @@
+*** Inbox for WooCommerce Changelog ***
+
+2023-04-04 - version 1.0.5
+* Fix on theme issue
+
+2022-11-12 - version 1.0.4
+* Initial release
